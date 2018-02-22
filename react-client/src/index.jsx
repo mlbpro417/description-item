@@ -1,10 +1,15 @@
 import React from 'react';
-import {render} from 'react-dom';
+import ReactDOM from 'react-dom';
 
-class App extends React.Component {
+class Index extends React.Component {
+  constructor(props) {
+    super(props);
+  }
   render () {
-    return <p> Hello React!</p>;
+    return (
+      <div></div>
+    );
   }
 }
 
-render(<App/>, document.getElementById('app'));
+ReactDOM.render(<Index/>, document.getElementById('app'));
