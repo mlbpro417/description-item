@@ -1,15 +1,11 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
 
 class Index extends React.Component {
-  constructor(props) {
-    super(props);
-  }
-  render () {
+  render() {
     return (
-      <div></div>
+      <div />
     );
   }
 }
 
-ReactDOM.render(<Index/>, document.getElementById('app'));
+export default Index;
