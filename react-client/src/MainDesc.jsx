@@ -21,9 +21,11 @@ const MainDesc = props => (
 export default MainDesc;
 
 MainDesc.propTypes = {
-  brand: PropTypes.string.isRequired,
-  model: PropTypes.string.isRequired,
-  price: PropTypes.number.isRequired,
-  shipping: PropTypes.string.isRequired,
-  stock: PropTypes.bool.isRequired,
+  dataDesc: PropTypes.shape({
+    brand: PropTypes.string.isRequired,
+    model: PropTypes.string.isRequired,
+    price: PropTypes.number.isRequired,
+    shipping: PropTypes.string.isRequired,
+    stock: PropTypes.bool.isRequired,
+  }).isRequired,
 };

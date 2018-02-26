@@ -7,7 +7,7 @@ export default [
     model: 'Apple TV - 32GB (4th Generation)',
     price: 1359,
     shipping: 'One Day Shipping',
-    stock: false,
+    stock: true,
     description: [
       'Maecenas congue leo at tempor lacinia.',
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
