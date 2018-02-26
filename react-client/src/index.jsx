@@ -12,7 +12,7 @@ class Index extends React.Component {
   render() {
     return (
       <div>
-        {this.state.data.map(x => <MainDesc dataDesc={x} />)}
+        {this.state.data.map(x => <MainDesc dataDesc={x} key={x.id} />)}
       </div>
     );
   }

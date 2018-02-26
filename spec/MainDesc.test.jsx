@@ -32,7 +32,7 @@ describe('MainDesc Component', () => {
     expect(shallow(<MainDesc dataDesc={data} />).find('#stock').length).toEqual(1);
   });
 
-  it('renders correctly', () => {
+  it('should renders correctly', () => {
     const tree = renderer.create(<MainDesc dataDesc={data} />).toJSON();
     expect(tree).toMatchSnapshot();
   });

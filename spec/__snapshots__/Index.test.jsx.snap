@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Index Component should renders correctly 1`] = `
+<div>
+  <div
+    className="MainDesc"
+  >
+    <div>
+      <p
+        id="brand"
+      >
+        Amazon
+      </p>
+    </div>
+    <div>
+      <h1
+        id="model"
+      >
+        Apple TV - 32GB (4th Generation)
+      </h1>
+    </div>
+    <div>
+      <p
+        id="price_shipping"
+      >
+        $
+        1359
+         & 
+        One Day Shipping
+      </p>
+    </div>
+    <div>
+      <h3
+        id="stock"
+      >
+        In Stock
+      </h3>
+    </div>
+  </div>
+</div>
+`;
