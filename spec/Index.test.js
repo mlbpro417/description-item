@@ -1,4 +1,3 @@
-import React from 'react';
 import Index from '../react-client/src/Index';
 
 describe('Index Component', () => {
