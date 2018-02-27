@@ -1,5 +1,9 @@
 {
   "name": "description-item",
+  "jest": {
+    "setupTestFrameworkScriptFile": "./spec/setupTests.js",
+    "verbose": true
+  },
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -19,6 +23,7 @@
   },
   "homepage": "https://github.com/Front-End-Ninjas/description-item#readme",
   "dependencies": {
+    "prop-types": "^15.6.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "webpack": "^3.11.0"

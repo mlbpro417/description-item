@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MainDesc Component should renders correctly 1`] = `
+<div
+  className="MainDesc"
+>
+  <div>
+    <p
+      id="brand"
+    >
+      brandTest
+    </p>
+  </div>
+  <div>
+    <h1
+      id="model"
+    >
+      modelTest
+    </h1>
+  </div>
+  <div>
+    <p
+      id="price_shipping"
+    >
+      $
+      100
+       & 
+      shippingTest
+    </p>
+  </div>
+  <div>
+    <h3
+      id="stock"
+    >
+      In Stock
+    </h3>
+  </div>
+</div>
+`;

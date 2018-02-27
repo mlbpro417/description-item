@@ -1,4 +1,3 @@
-// const seedDataTest = require('../data/seedDataGenerator');
 const {
   randoEl,
   randoInt,
