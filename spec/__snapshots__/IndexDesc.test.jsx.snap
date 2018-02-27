@@ -36,6 +36,44 @@ exports[`Index Component should renders correctly 1`] = `
         In Stock
       </h3>
     </div>
+    <div>
+      <div>
+        <ul>
+          <li
+            id="list-item"
+          >
+            Maecenas congue leo at tempor lacinia.
+          </li>
+        </ul>
+      </div>
+      <div>
+        <ul>
+          <li
+            id="list-item"
+          >
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+          </li>
+        </ul>
+      </div>
+      <div>
+        <ul>
+          <li
+            id="list-item"
+          >
+            Cras ut sem vel lectus rhoncus imperdiet a at leo.
+          </li>
+        </ul>
+      </div>
+      <div>
+        <ul>
+          <li
+            id="list-item"
+          >
+            Etiam a risus luctus, lacinia dui in, varius lorem.
+          </li>
+        </ul>
+      </div>
+    </div>
   </div>
 </div>
 `;

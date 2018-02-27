@@ -35,5 +35,16 @@ exports[`MainDesc Component should renders correctly 1`] = `
       In Stock
     </h3>
   </div>
+  <div>
+    <div>
+      <ul>
+        <li
+          id="list-item"
+        >
+          testItem
+        </li>
+      </ul>
+    </div>
+  </div>
 </div>
 `;

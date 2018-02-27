@@ -10,6 +10,7 @@ describe('MainDesc Component', () => {
     price: 100,
     shipping: 'shippingTest',
     stock: true,
+    description: ['testItem'],
   };
 
   it('should be defined', () => {

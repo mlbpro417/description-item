@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-
+import ListDesc from './ListDesc';
 
 const MainDesc = ({ dataDesc }) => (
   <div className="MainDesc">
@@ -16,6 +16,9 @@ const MainDesc = ({ dataDesc }) => (
     <div>
       <h3 id="stock">{dataDesc.stock ? 'In Stock' : 'Temporarily Out of Stock'}</h3>
     </div>
+    <div>
+      {dataDesc.description.map(x => <ListDesc item={x} key={x} />)}
+    </div>
   </div>
 );
 
@@ -26,6 +29,7 @@ MainDesc.propTypes = {
     price: PropTypes.number.isRequired,
     shipping: PropTypes.string.isRequired,
     stock: PropTypes.bool.isRequired,
+    description: PropTypes.arrayOf(PropTypes.string.isRequired).isRequired,
   }).isRequired,
 };
 
