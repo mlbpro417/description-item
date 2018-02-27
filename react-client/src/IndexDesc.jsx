@@ -2,7 +2,7 @@ import React from 'react';
 import MainDesc from './MainDesc';
 import sampleData from '../sampleData';
 
-class Index extends React.Component {
+class IndexDesc extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
@@ -18,4 +18,4 @@ class Index extends React.Component {
   }
 }
 
-export default Index;
+export default IndexDesc;
