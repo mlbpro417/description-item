@@ -1,6 +1,6 @@
 import React from 'react';
 import renderer from 'react-test-renderer';
-import Index from '../react-client/src/Index';
+import Index from '../react-client/src/IndexDesc';
 
 describe('Index Component', () => {
   it('should be defined', () => {
