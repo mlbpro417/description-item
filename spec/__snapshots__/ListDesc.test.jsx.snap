@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ListDesc Component should renders correctly 1`] = `
+<div>
+  <ul>
+    <li
+      id="list-item"
+    >
+      test
+    </li>
+  </ul>
+</div>
+`;
