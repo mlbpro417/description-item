@@ -2,7 +2,7 @@
 
 exports[`MainDesc Component should renders correctly 1`] = `
 <div
-  className="MainDesc"
+  id="main_desc"
 >
   <div>
     <p
@@ -36,7 +36,9 @@ exports[`MainDesc Component should renders correctly 1`] = `
     </h3>
   </div>
   <div>
-    <div>
+    <div
+      id="list_desc"
+    >
       <ul>
         <li
           id="list-item"

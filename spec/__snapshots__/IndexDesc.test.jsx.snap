@@ -1,9 +1,11 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Index Component should renders correctly 1`] = `
-<div>
+<div
+  id="main_app"
+>
   <div
-    className="MainDesc"
+    id="main_desc"
   >
     <div>
       <p
@@ -26,7 +28,10 @@ exports[`Index Component should renders correctly 1`] = `
         Price: $
         1359
          & 
-        One Day Shipping
+        <img
+          alt="Amazon Prime"
+          src="../prime_logo.png"
+        />
       </p>
     </div>
     <div>
@@ -37,7 +42,9 @@ exports[`Index Component should renders correctly 1`] = `
       </h3>
     </div>
     <div>
-      <div>
+      <div
+        id="list_desc"
+      >
         <ul>
           <li
             id="list-item"
@@ -46,7 +53,9 @@ exports[`Index Component should renders correctly 1`] = `
           </li>
         </ul>
       </div>
-      <div>
+      <div
+        id="list_desc"
+      >
         <ul>
           <li
             id="list-item"
@@ -55,7 +64,9 @@ exports[`Index Component should renders correctly 1`] = `
           </li>
         </ul>
       </div>
-      <div>
+      <div
+        id="list_desc"
+      >
         <ul>
           <li
             id="list-item"
@@ -64,7 +75,9 @@ exports[`Index Component should renders correctly 1`] = `
           </li>
         </ul>
       </div>
-      <div>
+      <div
+        id="list_desc"
+      >
         <ul>
           <li
             id="list-item"

@@ -6,7 +6,7 @@ export default [
     brand: 'Amazon',
     model: 'Apple TV - 32GB (4th Generation)',
     price: 1359,
-    shipping: 'One Day Shipping',
+    shipping: 'Prime',
     stock: true,
     description: [
       'Maecenas congue leo at tempor lacinia.',
