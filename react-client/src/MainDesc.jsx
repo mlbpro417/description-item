@@ -18,7 +18,7 @@ const MainDesc = ({ dataDesc }) => (
     <div>
       <h3 id="stock">{dataDesc.stock ? 'In Stock' : 'Temporarily Out of Stock'}</h3>
     </div>
-    <div>
+    <div id="list_desc">
       {dataDesc.description.map(x => <ListDesc item={x} key={x} />)}
     </div>
   </div>
