@@ -23,7 +23,7 @@ exports[`Index Component should renders correctly 1`] = `
       <p
         id="price_shipping"
       >
-        $
+        Price: $
         1359
          & 
         One Day Shipping

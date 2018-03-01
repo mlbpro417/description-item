@@ -22,7 +22,7 @@ exports[`MainDesc Component should renders correctly 1`] = `
     <p
       id="price_shipping"
     >
-      $
+      Price: $
       100
        & 
       shippingTest
