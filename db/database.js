@@ -1,20 +1,42 @@
 const mongoose = require('mongoose');
 
 const productsModel = mongoose.Schema({
-  id: Number,
+  id: {
+    type: Number,
+    required: true,
+    unique: true,
+  },
   department: {
     type: String,
     enum: ['Grocery', 'Home/Garden', 'Outdoors', 'Movies', 'Books', 'Electronics', 'Beauty', 'Toys', 'Clothing', 'Automotive'],
+    required: true,
   },
-  brand: String,
-  model: String,
-  price: Number,
+  brand: {
+    type: String,
+    required: true,
+  },
+  model: {
+    type: String,
+    required: true,
+  },
+  price: {
+    type: Number,
+    required: true,
+  },
   shipping: {
     type: String,
     enum: ['Prime', 'FREE Shipping', 'Regular Shipping', 'Same-Day Delivery', 'One Day Shipping'],
+    required: true,
   },
-  stock: Boolean,
-  description: Array,
+  stock: {
+    type: Boolean,
+    required: true,
+    default: false,
+  },
+  description: {
+    type: Array,
+    required: true,
+  },
 });
 
 const Products = mongoose.model('Products', productsModel);
