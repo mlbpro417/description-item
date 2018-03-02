@@ -23,8 +23,10 @@
   },
   "homepage": "https://github.com/Front-End-Ninjas/description-item#readme",
   "dependencies": {
+    "axios": "^0.18.0",
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
+    "mongoose": "^5.0.7",
     "nodemon": "^1.15.1",
     "prop-types": "^15.6.0",
     "react": "^16.2.0",
