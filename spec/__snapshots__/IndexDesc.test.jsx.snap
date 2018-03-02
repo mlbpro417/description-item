@@ -25,26 +25,35 @@ exports[`Index Component should renders correctly 1`] = `
       <p
         id="price_shipping"
       >
-        Price: $
-        1359
-         & 
-        <img
-          alt="Amazon Prime"
-          src="../prime_logo.png"
-        />
+        Price: 
+        <span
+          id="price"
+        >
+           $
+          1359
+        </span>
+        <span
+          id="shipping"
+        >
+           
+          <img
+            alt="Amazon Prime"
+            src="../prime_logo.png"
+          />
+        </span>
       </p>
     </div>
     <div>
       <h3
         id="stock"
       >
-        In Stock
+        In Stock.
       </h3>
     </div>
-    <div>
-      <div
-        id="list_desc"
-      >
+    <div
+      id="list_desc"
+    >
+      <div>
         <ul>
           <li
             id="list-item"
@@ -53,9 +62,7 @@ exports[`Index Component should renders correctly 1`] = `
           </li>
         </ul>
       </div>
-      <div
-        id="list_desc"
-      >
+      <div>
         <ul>
           <li
             id="list-item"
@@ -64,9 +71,7 @@ exports[`Index Component should renders correctly 1`] = `
           </li>
         </ul>
       </div>
-      <div
-        id="list_desc"
-      >
+      <div>
         <ul>
           <li
             id="list-item"
@@ -75,9 +80,7 @@ exports[`Index Component should renders correctly 1`] = `
           </li>
         </ul>
       </div>
-      <div
-        id="list_desc"
-      >
+      <div>
         <ul>
           <li
             id="list-item"

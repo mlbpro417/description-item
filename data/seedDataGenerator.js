@@ -25,7 +25,7 @@ const modelbeauty = ['Makeup', 'Skin Care', 'Hair Care', 'Fragrance', 'Foot, Han
 const modelbook = ['Eoin Dempsey', 'Caroline Mitchell', 'Christopher Rice', 'Rhys Bowen', 'Lisa Wingate', 'Matthew Wade', 'Hugh Acheson', 'Roger Priddy', 'Margaret Wise Brown, Clement Hurd', 'Eric Carle', 'Giles Andreae, Guy Parker-Rees'];
 
 // shipping property
-const shipping = ['Prime', 'Free Shipping', 'Regular Shipping', 'Same-Day Delivery', 'One Day Shipping'];
+const shipping = ['Prime', 'FREE Shipping', 'Regular Shipping', 'Same-Day Delivery', 'One Day Shipping'];
 
 // inStock property
 const stock = [true, false];
