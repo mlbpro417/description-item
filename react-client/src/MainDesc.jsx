@@ -13,7 +13,8 @@ const MainDesc = ({ dataDesc }) => (
     <div>
       <p id="price_shipping">Price: <span id="price"> ${dataDesc.price}</span>
         <span id="shipping"> {dataDesc.shipping === 'Prime' ?
-          <img src="../prime_logo.png" alt="Amazon Prime" /> : <span> & {dataDesc.shipping}.</span> }
+          <img src="../prime_logo.png" alt="Amazon Prime" /> :
+          <span> & {dataDesc.shipping}.</span>}
         </span>
       </p>
     </div>
