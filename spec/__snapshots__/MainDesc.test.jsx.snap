@@ -2,7 +2,7 @@
 
 exports[`MainDesc Component should renders correctly 1`] = `
 <div
-  className="MainDesc"
+  id="main_desc"
 >
   <div>
     <p
@@ -22,20 +22,35 @@ exports[`MainDesc Component should renders correctly 1`] = `
     <p
       id="price_shipping"
     >
-      Price: $
-      100
-       & 
-      shippingTest
+      Price: 
+      <span
+        id="price"
+      >
+         $
+        100
+      </span>
+      <span
+        id="shipping"
+      >
+         
+        <span>
+           & 
+          shippingTest
+          .
+        </span>
+      </span>
     </p>
   </div>
   <div>
     <h3
       id="stock"
     >
-      In Stock
+      In Stock.
     </h3>
   </div>
-  <div>
+  <div
+    id="list_desc"
+  >
     <div>
       <ul>
         <li

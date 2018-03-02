@@ -160,7 +160,7 @@
     "brand":"NVDIA",
     "model":"Roku Express | 5X more powerful HD Streaming",
     "price":1067,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":true,
     "description":[
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
@@ -218,7 +218,7 @@
     "brand":"Before We Were Yours: A Novel",
     "model":"Roger Priddy",
     "price":7,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":true,
     "description":[
       "Maecenas congue leo at tempor lacinia.",
@@ -294,7 +294,7 @@
     "brand":"Magic the Gathering",
     "model":"Grown-Up Toys",
     "price":27,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":true,
     "description":[
       "Etiam ut augue sed justo eleifend ullamcorper.",
@@ -310,7 +310,7 @@
     "brand":"The Dead Key",
     "model":"Margaret Wise Brown, Clement Hurd",
     "price":13,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":false,
     "description":[
       "Nullam id metus imperdiet, bibendum urna condimentum, aliquet elit."
@@ -323,7 +323,7 @@
     "brand":"Soups",
     "model":"Bread - White, Unsliced",
     "price":49,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":false,
     "description":[
       "Sed nec odio lacinia, rhoncus sapien letius, bibendum sapien.",
@@ -425,7 +425,7 @@
     "brand":"A Criminal Defense (Philadelphia Legal)",
     "model":"Hugh Acheson",
     "price":6,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":true,
     "description":[
       "Cras ut sem vel lectus rhoncus imperdiet a at leo.",
@@ -577,7 +577,7 @@
     "brand":"Marvel",
     "model":"Party Supplies",
     "price":24,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":false,
     "description":[
       "Maecenas congue leo at tempor lacinia.",
@@ -597,7 +597,7 @@
     "brand":"Pokemon",
     "model":"Hobbies",
     "price":42,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":true,
     "description":[
       "Etiam a risus luctus, lacinia dui in, varius lorem.",
@@ -640,7 +640,7 @@
     "brand":"Body & Trim",
     "model":"tools & equipment",
     "price":1292,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":false,
     "description":[
       "Morbi nec felis sagittis, pharetra lorem quis, pretium nulla.",
@@ -687,7 +687,7 @@
     "brand":"Re-Animator",
     "model":"Erinn Westman",
     "price":23,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":true,
     "description":[
       "Sed nec odio lacinia, rhoncus sapien letius, bibendum sapien.",
@@ -724,7 +724,7 @@
     "brand":"Silent Victim",
     "model":"Eoin Dempsey",
     "price":18,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":false,
     "description":[
       "Suspendisse sit amet erat vitae quam vestibulum finibus.",
@@ -756,7 +756,7 @@
     "brand":"Love from The Very Hungry Caterpillar",
     "model":"Eoin Dempsey",
     "price":9,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":false,
     "description":[
       "Etiam ut augue sed justo eleifend ullamcorper.",
@@ -792,7 +792,7 @@
     "brand":"Camping & Hiking",
     "model":"Knives & Tools",
     "price":20,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":false,
     "description":[
       "Vestibulum id odio vel turpis dictum commodo.",
@@ -880,7 +880,7 @@
     "brand":"Bed & Bath",
     "model":"Vase",
     "price":1060,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":true,
     "description":[
       "Sed tempus odio nec neque porta, nec sagittis lorem ullamcorper.",
@@ -1007,7 +1007,7 @@
     "brand":"Home Decor",
     "model":"Table",
     "price":465,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":true,
     "description":[
       "Etiam ut augue sed justo eleifend ullamcorper.",
@@ -1021,7 +1021,7 @@
     "brand":"Floor Care",
     "model":"Vase",
     "price":1236,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":false,
     "description":[
       "Cras ut sem vel lectus rhoncus imperdiet a at leo.",
@@ -1037,7 +1037,7 @@
     "brand":"Floor Care",
     "model":"Table",
     "price":2809,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":false,
     "description":[
       "Sed nec odio lacinia, rhoncus sapien letius, bibendum sapien.",
@@ -1078,7 +1078,7 @@
     "brand":"Cycling",
     "model":"Sleeping Bags",
     "price":1480,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":false,
     "description":[
       "Etiam ut augue sed justo eleifend ullamcorper.",
@@ -1152,7 +1152,7 @@
     "brand":"Roku",
     "model":"MU6300 series",
     "price":825,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":false,
     "description":[
       "Maecenas congue leo at tempor lacinia.",
@@ -1185,7 +1185,7 @@
     "brand":"Carhartt",
     "model":"Jeans",
     "price":219,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":false,
     "description":[
       "Quisque efficitur leo sed lacus egestas sagittis.",
@@ -1229,7 +1229,7 @@
     "brand":"Gun Woman",
     "model":"Margaretta Tompkin",
     "price":16,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":true,
     "description":[
       "Etiam ut augue sed justo eleifend ullamcorper.",
@@ -1300,7 +1300,7 @@
     "brand":"Kenneth Cole REACTION",
     "model":"Suits & Sport Coats",
     "price":183,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":false,
     "description":[
       "Sed ut dolor in nibh laoreet posuere non quis nunc.",
@@ -1357,7 +1357,7 @@
     "brand":"LG",
     "model":"S305 series",
     "price":1573,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":false,
     "description":[
       "Quisque efficitur leo sed lacus egestas sagittis.",
@@ -1435,7 +1435,7 @@
     "brand":"Exhaust System",
     "model":"car care",
     "price":1013,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":true,
     "description":[
       "Sed tempus odio nec neque porta, nec sagittis lorem ullamcorper.",
@@ -1458,7 +1458,7 @@
     "brand":"Skate",
     "model":"Camping Furniture",
     "price":102,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":true,
     "description":[
       "Cras ut sem vel lectus rhoncus imperdiet a at leo.",
@@ -1562,7 +1562,7 @@
     "brand":"A Criminal Defense (Philadelphia Legal)",
     "model":"Margaret Wise Brown, Clement Hurd",
     "price":12,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":true,
     "description":[
       "Etiam a risus luctus, lacinia dui in, varius lorem.",
@@ -1612,7 +1612,7 @@
     "brand":"Floor Care",
     "model":"Chair Sets",
     "price":315,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":false,
     "description":[
       "Etiam a risus luctus, lacinia dui in, varius lorem.",
@@ -1631,7 +1631,7 @@
     "brand":"Filters",
     "model":"wheels",
     "price":2107,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":true,
     "description":[
       "Etiam ut augue sed justo eleifend ullamcorper.",
@@ -1912,7 +1912,7 @@
     "brand":"Samsumg",
     "model":"X900E series",
     "price":1768,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":false,
     "description":[
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
@@ -2349,7 +2349,7 @@
     "brand":"Sony",
     "model":"S305 series",
     "price":239,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":true,
     "description":[
       "Morbi nec felis sagittis, pharetra lorem quis, pretium nulla.",
@@ -2512,7 +2512,7 @@
     "brand":"Packaged Meals & Side Dishes",
     "model":"Caviar - Salmon",
     "price":5,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":true,
     "description":[
       "Maecenas congue leo at tempor lacinia.",
@@ -2597,7 +2597,7 @@
     "brand":"Nerf",
     "model":"Action Figures & Statues",
     "price":68,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":false,
     "description":[
       "Maecenas congue leo at tempor lacinia.",
@@ -2631,7 +2631,7 @@
     "brand":"West Cork",
     "model":"Matthew Wade",
     "price":2,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":false,
     "description":[
       "Morbi nec felis sagittis, pharetra lorem quis, pretium nulla.",
@@ -2650,7 +2650,7 @@
     "brand":"Water Sports",
     "model":"Safety & Survival",
     "price":27,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":true,
     "description":[
       "Etiam a risus luctus, lacinia dui in, varius lorem.",
@@ -2701,7 +2701,7 @@
     "brand":"Neutrogena",
     "model":"Makeup",
     "price":40,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":true,
     "description":[
       "Sed nec odio lacinia, rhoncus sapien letius, bibendum sapien.",
@@ -3081,7 +3081,7 @@
     "brand":"Amazon",
     "model":"X900E series",
     "price":863,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":true,
     "description":[
       "Etiam ut augue sed justo eleifend ullamcorper.",
@@ -3117,7 +3117,7 @@
     "brand":"Dockers",
     "model":"T-Shirts & Tanks",
     "price":200,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":true,
     "description":[
       "Quisque efficitur leo sed lacus egestas sagittis.",
@@ -3133,7 +3133,7 @@
     "brand":"Camping & Hiking",
     "model":"Tents & Shelters",
     "price":441,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":false,
     "description":[
       "Nullam id metus imperdiet, bibendum urna condimentum, aliquet elit.",
@@ -3317,7 +3317,7 @@
     "brand":"First Blood (Rambo: First Blood)",
     "model":"Stevana Crate",
     "price":13,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":false,
     "description":[
       "Sed nec odio lacinia, rhoncus sapien letius, bibendum sapien.",
@@ -3575,7 +3575,7 @@
     "brand":"Logitech",
     "model":"C7 OLED series",
     "price":1233,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":true,
     "description":[
       "Sed tempus odio nec neque porta, nec sagittis lorem ullamcorper.",
@@ -3702,7 +3702,7 @@
     "brand":"Exhaust System",
     "model":"parts",
     "price":1974,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":true,
     "description":[
       "Suspendisse sit amet erat vitae quam vestibulum finibus.",
@@ -3780,7 +3780,7 @@
     "brand":"Marvel",
     "model":"Puppets",
     "price":97,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":false,
     "description":[
       "Sed ut dolor in nibh laoreet posuere non quis nunc.",
@@ -3844,7 +3844,7 @@
     "brand":"Lighting",
     "model":"Bar Stools",
     "price":963,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":true,
     "description":[
       "Sed tempus odio nec neque porta, nec sagittis lorem ullamcorper.",
@@ -3859,7 +3859,7 @@
     "brand":"Yu-Gi-Oh!",
     "model":"Arts & Crafts",
     "price":55,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":false,
     "description":[
       "Suspendisse sit amet erat vitae quam vestibulum finibus.",
@@ -3907,7 +3907,7 @@
     "brand":"Wiper Blades",
     "model":"parts",
     "price":1094,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":true,
     "description":[
       "Suspendisse sit amet erat vitae quam vestibulum finibus.",
@@ -3940,7 +3940,7 @@
     "brand":"Camping & Hiking",
     "model":"Lights & Lanterns",
     "price":652,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":true,
     "description":[
       "Vestibulum id odio vel turpis dictum commodo.",
@@ -3958,7 +3958,7 @@
     "brand":"The Chef and the Slow Cooker",
     "model":"Margaret Wise Brown, Clement Hurd",
     "price":2,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":false,
     "description":[
       "Donec eu lacus sed lacus elementum bibendum non sed magna."
@@ -4065,7 +4065,7 @@
     "brand":"Under Armour",
     "model":"Shirts",
     "price":242,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":true,
     "description":[
       "Cras ut sem vel lectus rhoncus imperdiet a at leo.",
@@ -4162,7 +4162,7 @@
     "brand":"Silent Victim",
     "model":"Eric Carle",
     "price":10,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":false,
     "description":[
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
@@ -4260,7 +4260,7 @@
     "brand":"Emerald Cowboy",
     "model":"Corry Pigford",
     "price":16,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":false,
     "description":[
       "Suspendisse sit amet erat vitae quam vestibulum finibus.",
@@ -4353,7 +4353,7 @@
     "brand":"Neutrogena",
     "model":"Shave & Hair Removal",
     "price":31,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":false,
     "description":[
       "Etiam ut augue sed justo eleifend ullamcorper.",
@@ -4401,7 +4401,7 @@
     "brand":"Apple",
     "model":"MU6300 series",
     "price":1882,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":false,
     "description":[
       "Sed tempus odio nec neque porta, nec sagittis lorem ullamcorper.",
@@ -4563,7 +4563,7 @@
     "brand":"Snack Foods",
     "model":"Breakfast Quesadillas",
     "price":67,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":true,
     "description":[
       "Nullam id metus imperdiet, bibendum urna condimentum, aliquet elit.",
@@ -4580,7 +4580,7 @@
     "brand":"Colgate",
     "model":"Skin Care",
     "price":67,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":false,
     "description":[
       "Sed tempus odio nec neque porta, nec sagittis lorem ullamcorper.",
@@ -4697,7 +4697,7 @@
     "brand":"Amazon",
     "model":"Fire TV Stick with Alexa Voice Remote",
     "price":351,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":true,
     "description":[
       "Nullam id metus imperdiet, bibendum urna condimentum, aliquet elit.",
@@ -4814,7 +4814,7 @@
     "brand":"Body & Trim",
     "model":"interior accessories",
     "price":214,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":false,
     "description":[
       "Maecenas congue leo at tempor lacinia.",
@@ -4844,7 +4844,7 @@
     "brand":"West Cork",
     "model":"Caroline Mitchell",
     "price":10,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":false,
     "description":[
       "Etiam a risus luctus, lacinia dui in, varius lorem.",
@@ -4972,7 +4972,7 @@
     "brand":"Roku",
     "model":"S305 series",
     "price":512,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":true,
     "description":[
       "Etiam ut augue sed justo eleifend ullamcorper.",
@@ -5060,7 +5060,7 @@
     "brand":"Bed & Bath",
     "model":"Matress",
     "price":423,
-    "shipping":"Free Shipping",
+    "shipping":"FREE Shipping",
     "stock":false,
     "description":[
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",

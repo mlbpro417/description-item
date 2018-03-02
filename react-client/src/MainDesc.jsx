@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import ListDesc from './ListDesc';
 
 const MainDesc = ({ dataDesc }) => (
-  <div className="MainDesc">
+  <div id="main_desc">
     <div>
       <p id="brand">{dataDesc.brand}</p>
     </div>
@@ -11,12 +11,17 @@ const MainDesc = ({ dataDesc }) => (
       <h1 id="model">{dataDesc.model}</h1>
     </div>
     <div>
-      <p id="price_shipping">Price: ${dataDesc.price} & {dataDesc.shipping}</p>
+      <p id="price_shipping">Price: <span id="price"> ${dataDesc.price}</span>
+        <span id="shipping"> {dataDesc.shipping === 'Prime' ?
+          <img src="../prime_logo.png" alt="Amazon Prime" /> :
+          <span> & {dataDesc.shipping}.</span>}
+        </span>
+      </p>
     </div>
     <div>
-      <h3 id="stock">{dataDesc.stock ? 'In Stock' : 'Temporarily Out of Stock'}</h3>
+      <h3 id="stock">{dataDesc.stock ? 'In Stock.' : 'Temporarily Out of Stock.'}</h3>
     </div>
-    <div>
+    <div id="list_desc">
       {dataDesc.description.map(x => <ListDesc item={x} key={x} />)}
     </div>
   </div>

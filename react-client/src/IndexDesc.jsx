@@ -11,7 +11,7 @@ class IndexDesc extends React.Component {
   }
   render() {
     return (
-      <div>
+      <div id="main_app">
         {this.state.data.map(x => <MainDesc dataDesc={x} key={x.id} />)}
       </div>
     );
