@@ -2,7 +2,7 @@
   {
     "id":0,
     "title":"Product 0 Electronics",
-    "type":"Electronics",
+    "department":"Electronics",
     "brand":"Apple",
     "model":"X900E series",
     "price":1424,
@@ -22,7 +22,7 @@
   {
     "id":1,
     "title":"Product 1 Movies",
-    "type":"Movies",
+    "department":"Movies",
     "brand":"Ocean's Thirteen",
     "model":"Karel Camacho",
     "price":8,
@@ -36,7 +36,7 @@
   {
     "id":2,
     "title":"Product 2 Grocery",
-    "type":"Grocery",
+    "department":"Grocery",
     "brand":"Beverages",
     "model":"Veal - Tenderloin, Untrimmed",
     "price":32,
@@ -51,7 +51,7 @@
   {
     "id":3,
     "title":"Product 3 Automotive",
-    "type":"Automotive",
+    "department":"Automotive",
     "brand":"Brake System",
     "model":"interior accessories",
     "price":699,
@@ -68,7 +68,7 @@
   {
     "id":4,
     "title":"Product 4 Books",
-    "type":"Books",
+    "department":"Books",
     "brand":"White Rose, Black Forest",
     "model":"Lisa Wingate",
     "price":3,
@@ -89,7 +89,7 @@
   {
     "id":5,
     "title":"Product 5 Clothing",
-    "type":"Clothing",
+    "department":"Clothing",
     "brand":"Dockers",
     "model":"Fashion Hoodies & Sweatshirts",
     "price":255,
@@ -103,7 +103,7 @@
   {
     "id":6,
     "title":"Product 6 Home/Garden",
-    "type":"Home/Garden",
+    "department":"Home/Garden",
     "brand":"Furniture",
     "model":"Chair Sets",
     "price":1415,
@@ -123,7 +123,7 @@
   {
     "id":7,
     "title":"Product 7 Electronics",
-    "type":"Electronics",
+    "department":"Electronics",
     "brand":"NVDIA",
     "model":"C7 OLED series",
     "price":524,
@@ -137,7 +137,7 @@
   {
     "id":8,
     "title":"Product 8 Movies",
-    "type":"Movies",
+    "department":"Movies",
     "brand":"Of Gods and Men (Des hommes et des dieux)",
     "model":"Brock Nitti",
     "price":6,
@@ -156,7 +156,7 @@
   {
     "id":9,
     "title":"Product 9 Electronics",
-    "type":"Electronics",
+    "department":"Electronics",
     "brand":"NVDIA",
     "model":"Roku Express | 5X more powerful HD Streaming",
     "price":1067,
@@ -176,7 +176,7 @@
   {
     "id":10,
     "title":"Product 10 Outdoors",
-    "type":"Outdoors",
+    "department":"Outdoors",
     "brand":"Cycling",
     "model":"Lights & Lanterns",
     "price":1885,
@@ -193,7 +193,7 @@
   {
     "id":11,
     "title":"Product 11 Electronics",
-    "type":"Electronics",
+    "department":"Electronics",
     "brand":"Apple",
     "model":"C7 OLED series",
     "price":1850,
@@ -214,7 +214,7 @@
   {
     "id":12,
     "title":"Product 12 Books",
-    "type":"Books",
+    "department":"Books",
     "brand":"Before We Were Yours: A Novel",
     "model":"Roger Priddy",
     "price":7,
@@ -229,7 +229,7 @@
   {
     "id":13,
     "title":"Product 13 Outdoors",
-    "type":"Outdoors",
+    "department":"Outdoors",
     "brand":"Skate",
     "model":"Backpacks",
     "price":674,
@@ -251,7 +251,7 @@
   {
     "id":14,
     "title":"Product 14 Automotive",
-    "type":"Automotive",
+    "department":"Automotive",
     "brand":"Suspension & Chassis",
     "model":"parts",
     "price":376,
@@ -271,7 +271,7 @@
   {
     "id":15,
     "title":"Product 15 Home/Garden",
-    "type":"Home/Garden",
+    "department":"Home/Garden",
     "brand":"Lighting",
     "model":"Pillows",
     "price":1544,
@@ -290,7 +290,7 @@
   {
     "id":16,
     "title":"Product 16 Toys",
-    "type":"Toys",
+    "department":"Toys",
     "brand":"Magic the Gathering",
     "model":"Grown-Up Toys",
     "price":27,
@@ -306,7 +306,7 @@
   {
     "id":17,
     "title":"Product 17 Books",
-    "type":"Books",
+    "department":"Books",
     "brand":"The Dead Key",
     "model":"Margaret Wise Brown, Clement Hurd",
     "price":13,
@@ -319,7 +319,7 @@
   {
     "id":18,
     "title":"Product 18 Grocery",
-    "type":"Grocery",
+    "department":"Grocery",
     "brand":"Soups",
     "model":"Bread - White, Unsliced",
     "price":49,
@@ -335,7 +335,7 @@
   {
     "id":19,
     "title":"Product 19 Outdoors",
-    "type":"Outdoors",
+    "department":"Outdoors",
     "brand":"Climbing",
     "model":"Camping Furniture",
     "price":831,
@@ -348,7 +348,7 @@
   {
     "id":20,
     "title":"Product 20 Movies",
-    "type":"Movies",
+    "department":"Movies",
     "brand":"Common",
     "model":"Emmalynn Portch",
     "price":11,
@@ -367,7 +367,7 @@
   {
     "id":21,
     "title":"Product 21 Toys",
-    "type":"Toys",
+    "department":"Toys",
     "brand":"Pokemon",
     "model":"Party Supplies",
     "price":39,
@@ -384,7 +384,7 @@
   {
     "id":22,
     "title":"Product 22 Clothing",
-    "type":"Clothing",
+    "department":"Clothing",
     "brand":"Carhartt",
     "model":"Active",
     "price":273,
@@ -404,7 +404,7 @@
   {
     "id":23,
     "title":"Product 23 Toys",
-    "type":"Toys",
+    "department":"Toys",
     "brand":"Marvel",
     "model":"Sports & Outdoor Play",
     "price":94,
@@ -421,7 +421,7 @@
   {
     "id":24,
     "title":"Product 24 Books",
-    "type":"Books",
+    "department":"Books",
     "brand":"A Criminal Defense (Philadelphia Legal)",
     "model":"Hugh Acheson",
     "price":6,
@@ -441,7 +441,7 @@
   {
     "id":25,
     "title":"Product 25 Electronics",
-    "type":"Electronics",
+    "department":"Electronics",
     "brand":"Logitech",
     "model":"C7 OLED series",
     "price":2398,
@@ -458,7 +458,7 @@
   {
     "id":26,
     "title":"Product 26 Toys",
-    "type":"Toys",
+    "department":"Toys",
     "brand":"Nerf",
     "model":"Video Games",
     "price":98,
@@ -471,7 +471,7 @@
   {
     "id":27,
     "title":"Product 27 Grocery",
-    "type":"Grocery",
+    "department":"Grocery",
     "brand":"Fresh Flowers & Live Indoor Plants",
     "model":"Breakfast Quesadillas",
     "price":96,
@@ -490,7 +490,7 @@
   {
     "id":28,
     "title":"Product 28 Outdoors",
-    "type":"Outdoors",
+    "department":"Outdoors",
     "brand":"Water Sports",
     "model":"Lights & Lanterns",
     "price":1009,
@@ -509,7 +509,7 @@
   {
     "id":29,
     "title":"Product 29 Outdoors",
-    "type":"Outdoors",
+    "department":"Outdoors",
     "brand":"Cycling",
     "model":"Sleeping Bags",
     "price":783,
@@ -526,7 +526,7 @@
   {
     "id":30,
     "title":"Product 30 Movies",
-    "type":"Movies",
+    "department":"Movies",
     "brand":"Daddy's Home 2",
     "model":"Karel Camacho",
     "price":9,
@@ -540,7 +540,7 @@
   {
     "id":31,
     "title":"Product 31 Clothing",
-    "type":"Clothing",
+    "department":"Clothing",
     "brand":"Columbia",
     "model":"Socks",
     "price":15,
@@ -555,7 +555,7 @@
   {
     "id":32,
     "title":"Product 32 Grocery",
-    "type":"Grocery",
+    "department":"Grocery",
     "brand":"Produce",
     "model":"Cheese - Feta",
     "price":52,
@@ -573,7 +573,7 @@
   {
     "id":33,
     "title":"Product 33 Toys",
-    "type":"Toys",
+    "department":"Toys",
     "brand":"Marvel",
     "model":"Party Supplies",
     "price":24,
@@ -593,7 +593,7 @@
   {
     "id":34,
     "title":"Product 34 Toys",
-    "type":"Toys",
+    "department":"Toys",
     "brand":"Pokemon",
     "model":"Hobbies",
     "price":42,
@@ -617,7 +617,7 @@
   {
     "id":35,
     "title":"Product 35 Electronics",
-    "type":"Electronics",
+    "department":"Electronics",
     "brand":"Roku",
     "model":"S305 series",
     "price":2462,
@@ -636,7 +636,7 @@
   {
     "id":36,
     "title":"Product 36 Automotive",
-    "type":"Automotive",
+    "department":"Automotive",
     "brand":"Body & Trim",
     "model":"tools & equipment",
     "price":1292,
@@ -654,7 +654,7 @@
   {
     "id":37,
     "title":"Product 37 Grocery",
-    "type":"Grocery",
+    "department":"Grocery",
     "brand":"Prepared Foods",
     "model":"Wine - Toasted Head",
     "price":74,
@@ -668,7 +668,7 @@
   {
     "id":38,
     "title":"Product 38 Books",
-    "type":"Books",
+    "department":"Books",
     "brand":"The Tuscan Child",
     "model":"Roger Priddy",
     "price":12,
@@ -683,7 +683,7 @@
   {
     "id":39,
     "title":"Product 39 Movies",
-    "type":"Movies",
+    "department":"Movies",
     "brand":"Re-Animator",
     "model":"Erinn Westman",
     "price":23,
@@ -704,7 +704,7 @@
   {
     "id":40,
     "title":"Product 40 Beauty",
-    "type":"Beauty",
+    "department":"Beauty",
     "brand":"Aveeno",
     "model":"Personal Care",
     "price":58,
@@ -720,7 +720,7 @@
   {
     "id":41,
     "title":"Product 41 Books",
-    "type":"Books",
+    "department":"Books",
     "brand":"Silent Victim",
     "model":"Eoin Dempsey",
     "price":18,
@@ -736,7 +736,7 @@
   {
     "id":42,
     "title":"Product 42 Home/Garden",
-    "type":"Home/Garden",
+    "department":"Home/Garden",
     "brand":"Furniture",
     "model":"Towels",
     "price":1866,
@@ -752,7 +752,7 @@
   {
     "id":43,
     "title":"Product 43 Books",
-    "type":"Books",
+    "department":"Books",
     "brand":"Love from The Very Hungry Caterpillar",
     "model":"Eoin Dempsey",
     "price":9,
@@ -768,7 +768,7 @@
   {
     "id":44,
     "title":"Product 44 Outdoors",
-    "type":"Outdoors",
+    "department":"Outdoors",
     "brand":"Climbing",
     "model":"Trekking Poles",
     "price":441,
@@ -788,7 +788,7 @@
   {
     "id":45,
     "title":"Product 45 Outdoors",
-    "type":"Outdoors",
+    "department":"Outdoors",
     "brand":"Camping & Hiking",
     "model":"Knives & Tools",
     "price":20,
@@ -806,7 +806,7 @@
   {
     "id":46,
     "title":"Product 46 Beauty",
-    "type":"Beauty",
+    "department":"Beauty",
     "brand":"Aveeno",
     "model":"Skin Care",
     "price":28,
@@ -824,7 +824,7 @@
   {
     "id":47,
     "title":"Product 47 Beauty",
-    "type":"Beauty",
+    "department":"Beauty",
     "brand":"Neutrogena",
     "model":"Foot, Hand & Nail Care",
     "price":86,
@@ -838,7 +838,7 @@
   {
     "id":48,
     "title":"Product 48 Toys",
-    "type":"Toys",
+    "department":"Toys",
     "brand":"Nerf",
     "model":"Dolls & Accessories",
     "price":57,
@@ -856,7 +856,7 @@
   {
     "id":49,
     "title":"Product 49 Beauty",
-    "type":"Beauty",
+    "department":"Beauty",
     "brand":"Crest",
     "model":"Skin Care",
     "price":72,
@@ -876,7 +876,7 @@
   {
     "id":50,
     "title":"Product 50 Home/Garden",
-    "type":"Home/Garden",
+    "department":"Home/Garden",
     "brand":"Bed & Bath",
     "model":"Vase",
     "price":1060,
@@ -896,7 +896,7 @@
   {
     "id":51,
     "title":"Product 51 Electronics",
-    "type":"Electronics",
+    "department":"Electronics",
     "brand":"Apple",
     "model":"Fire TV Stick with Alexa Voice Remote",
     "price":1760,
@@ -910,7 +910,7 @@
   {
     "id":52,
     "title":"Product 52 Grocery",
-    "type":"Grocery",
+    "department":"Grocery",
     "brand":"Canned, Jarred & Packaged Foods",
     "model":"Beef - Outside, Round",
     "price":63,
@@ -926,7 +926,7 @@
   {
     "id":53,
     "title":"Product 53 Grocery",
-    "type":"Grocery",
+    "department":"Grocery",
     "brand":"Packaged Meals & Side Dishes",
     "model":"Bread - White, Unsliced",
     "price":23,
@@ -946,7 +946,7 @@
   {
     "id":54,
     "title":"Product 54 Beauty",
-    "type":"Beauty",
+    "department":"Beauty",
     "brand":"Oral B",
     "model":"Fragrance",
     "price":89,
@@ -964,7 +964,7 @@
   {
     "id":55,
     "title":"Product 55 Movies",
-    "type":"Movies",
+    "department":"Movies",
     "brand":"3rd World Hero (Bayaning Third World)",
     "model":"Debora Machans",
     "price":12,
@@ -983,7 +983,7 @@
   {
     "id":56,
     "title":"Product 56 Grocery",
-    "type":"Grocery",
+    "department":"Grocery",
     "brand":"Stocks & Broths",
     "model":"Breakfast Quesadillas",
     "price":77,
@@ -1003,7 +1003,7 @@
   {
     "id":57,
     "title":"Product 57 Home/Garden",
-    "type":"Home/Garden",
+    "department":"Home/Garden",
     "brand":"Home Decor",
     "model":"Table",
     "price":465,
@@ -1017,7 +1017,7 @@
   {
     "id":58,
     "title":"Product 58 Home/Garden",
-    "type":"Home/Garden",
+    "department":"Home/Garden",
     "brand":"Floor Care",
     "model":"Vase",
     "price":1236,
@@ -1033,7 +1033,7 @@
   {
     "id":59,
     "title":"Product 59 Home/Garden",
-    "type":"Home/Garden",
+    "department":"Home/Garden",
     "brand":"Floor Care",
     "model":"Table",
     "price":2809,
@@ -1054,7 +1054,7 @@
   {
     "id":60,
     "title":"Product 60 Toys",
-    "type":"Toys",
+    "department":"Toys",
     "brand":"Nerf",
     "model":"Novelty & Gag Toys",
     "price":52,
@@ -1074,7 +1074,7 @@
   {
     "id":61,
     "title":"Product 61 Outdoors",
-    "type":"Outdoors",
+    "department":"Outdoors",
     "brand":"Cycling",
     "model":"Sleeping Bags",
     "price":1480,
@@ -1093,7 +1093,7 @@
   {
     "id":62,
     "title":"Product 62 Beauty",
-    "type":"Beauty",
+    "department":"Beauty",
     "brand":"Oral B",
     "model":"Personal Care",
     "price":34,
@@ -1111,7 +1111,7 @@
   {
     "id":63,
     "title":"Product 63 Outdoors",
-    "type":"Outdoors",
+    "department":"Outdoors",
     "brand":"Cycling",
     "model":"Sleeping Bags",
     "price":1540,
@@ -1127,7 +1127,7 @@
   {
     "id":64,
     "title":"Product 64 Beauty",
-    "type":"Beauty",
+    "department":"Beauty",
     "brand":"Colgate",
     "model":"Skin Care",
     "price":88,
@@ -1148,7 +1148,7 @@
   {
     "id":65,
     "title":"Product 65 Electronics",
-    "type":"Electronics",
+    "department":"Electronics",
     "brand":"Roku",
     "model":"MU6300 series",
     "price":825,
@@ -1163,7 +1163,7 @@
   {
     "id":66,
     "title":"Product 66 Books",
-    "type":"Books",
+    "department":"Books",
     "brand":"White Rose, Black Forest",
     "model":"Giles Andreae, Guy Parker-Rees",
     "price":3,
@@ -1181,7 +1181,7 @@
   {
     "id":67,
     "title":"Product 67 Clothing",
-    "type":"Clothing",
+    "department":"Clothing",
     "brand":"Carhartt",
     "model":"Jeans",
     "price":219,
@@ -1195,7 +1195,7 @@
   {
     "id":68,
     "title":"Product 68 Home/Garden",
-    "type":"Home/Garden",
+    "department":"Home/Garden",
     "brand":"Pet Supplies",
     "model":"Lamp",
     "price":2858,
@@ -1209,7 +1209,7 @@
   {
     "id":69,
     "title":"Product 69 Home/Garden",
-    "type":"Home/Garden",
+    "department":"Home/Garden",
     "brand":"Storage & Orgamization",
     "model":"Lamp",
     "price":1657,
@@ -1225,7 +1225,7 @@
   {
     "id":70,
     "title":"Product 70 Movies",
-    "type":"Movies",
+    "department":"Movies",
     "brand":"Gun Woman",
     "model":"Margaretta Tompkin",
     "price":16,
@@ -1244,7 +1244,7 @@
   {
     "id":71,
     "title":"Product 71 Grocery",
-    "type":"Grocery",
+    "department":"Grocery",
     "brand":"Herbs, Spices & Seasonings",
     "model":"Icecream",
     "price":65,
@@ -1261,7 +1261,7 @@
   {
     "id":72,
     "title":"Product 72 Automotive",
-    "type":"Automotive",
+    "department":"Automotive",
     "brand":"Suspension",
     "model":"parts",
     "price":428,
@@ -1279,7 +1279,7 @@
   {
     "id":73,
     "title":"Product 73 Automotive",
-    "type":"Automotive",
+    "department":"Automotive",
     "brand":"Filters",
     "model":"parts",
     "price":103,
@@ -1296,7 +1296,7 @@
   {
     "id":74,
     "title":"Product 74 Clothing",
-    "type":"Clothing",
+    "department":"Clothing",
     "brand":"Kenneth Cole REACTION",
     "model":"Suits & Sport Coats",
     "price":183,
@@ -1317,7 +1317,7 @@
   {
     "id":75,
     "title":"Product 75 Movies",
-    "type":"Movies",
+    "department":"Movies",
     "brand":"Gun Woman",
     "model":"Diena Airlie",
     "price":9,
@@ -1334,7 +1334,7 @@
   {
     "id":76,
     "title":"Product 76 Electronics",
-    "type":"Electronics",
+    "department":"Electronics",
     "brand":"Amazon",
     "model":"S305 series",
     "price":2157,
@@ -1353,7 +1353,7 @@
   {
     "id":77,
     "title":"Product 77 Electronics",
-    "type":"Electronics",
+    "department":"Electronics",
     "brand":"LG",
     "model":"S305 series",
     "price":1573,
@@ -1368,7 +1368,7 @@
   {
     "id":78,
     "title":"Product 78 Movies",
-    "type":"Movies",
+    "department":"Movies",
     "brand":"Stingray Sam",
     "model":"Fair McCloughlin",
     "price":19,
@@ -1382,7 +1382,7 @@
   {
     "id":79,
     "title":"Product 79 Books",
-    "type":"Books",
+    "department":"Books",
     "brand":"The Tuscan Child",
     "model":"Roger Priddy",
     "price":13,
@@ -1396,7 +1396,7 @@
   {
     "id":80,
     "title":"Product 80 Clothing",
-    "type":"Clothing",
+    "department":"Clothing",
     "brand":"Carhartt",
     "model":"Jewelry",
     "price":128,
@@ -1415,7 +1415,7 @@
   {
     "id":81,
     "title":"Product 81 Toys",
-    "type":"Toys",
+    "department":"Toys",
     "brand":"Barbie",
     "model":"Puppets",
     "price":77,
@@ -1431,7 +1431,7 @@
   {
     "id":82,
     "title":"Product 82 Automotive",
-    "type":"Automotive",
+    "department":"Automotive",
     "brand":"Exhaust System",
     "model":"car care",
     "price":1013,
@@ -1454,7 +1454,7 @@
   {
     "id":83,
     "title":"Product 83 Outdoors",
-    "type":"Outdoors",
+    "department":"Outdoors",
     "brand":"Skate",
     "model":"Camping Furniture",
     "price":102,
@@ -1475,7 +1475,7 @@
   {
     "id":84,
     "title":"Product 84 Automotive",
-    "type":"Automotive",
+    "department":"Automotive",
     "brand":"Brake System",
     "model":"car care",
     "price":661,
@@ -1495,7 +1495,7 @@
   {
     "id":85,
     "title":"Product 85 Books",
-    "type":"Books",
+    "department":"Books",
     "brand":"Say You're Sorry (Morgan Dane Book 1)",
     "model":"Roger Priddy",
     "price":7,
@@ -1511,7 +1511,7 @@
   {
     "id":86,
     "title":"Product 86 Toys",
-    "type":"Toys",
+    "department":"Toys",
     "brand":"Nerf",
     "model":"Grown-Up Toys",
     "price":45,
@@ -1528,7 +1528,7 @@
   {
     "id":87,
     "title":"Product 87 Outdoors",
-    "type":"Outdoors",
+    "department":"Outdoors",
     "brand":"Cycling",
     "model":"Bike",
     "price":1852,
@@ -1541,7 +1541,7 @@
   {
     "id":88,
     "title":"Product 88 Home/Garden",
-    "type":"Home/Garden",
+    "department":"Home/Garden",
     "brand":"Lighting",
     "model":"Pressure Washer",
     "price":544,
@@ -1558,7 +1558,7 @@
   {
     "id":89,
     "title":"Product 89 Books",
-    "type":"Books",
+    "department":"Books",
     "brand":"A Criminal Defense (Philadelphia Legal)",
     "model":"Margaret Wise Brown, Clement Hurd",
     "price":12,
@@ -1575,7 +1575,7 @@
   {
     "id":90,
     "title":"Product 90 Outdoors",
-    "type":"Outdoors",
+    "department":"Outdoors",
     "brand":"Winter Sports",
     "model":"Camp Kitchen",
     "price":393,
@@ -1590,7 +1590,7 @@
   {
     "id":91,
     "title":"Product 91 Home/Garden",
-    "type":"Home/Garden",
+    "department":"Home/Garden",
     "brand":"Floor Care",
     "model":"Matress",
     "price":1746,
@@ -1608,7 +1608,7 @@
   {
     "id":92,
     "title":"Product 92 Home/Garden",
-    "type":"Home/Garden",
+    "department":"Home/Garden",
     "brand":"Floor Care",
     "model":"Chair Sets",
     "price":315,
@@ -1627,7 +1627,7 @@
   {
     "id":93,
     "title":"Product 93 Automotive",
-    "type":"Automotive",
+    "department":"Automotive",
     "brand":"Filters",
     "model":"wheels",
     "price":2107,
@@ -1647,7 +1647,7 @@
   {
     "id":94,
     "title":"Product 94 Outdoors",
-    "type":"Outdoors",
+    "department":"Outdoors",
     "brand":"Camping & Hiking",
     "model":"Backpacks",
     "price":189,
@@ -1662,7 +1662,7 @@
   {
     "id":95,
     "title":"Product 95 Toys",
-    "type":"Toys",
+    "department":"Toys",
     "brand":"Nerf",
     "model":"Puppets",
     "price":12,
@@ -1684,7 +1684,7 @@
   {
     "id":96,
     "title":"Product 96 Beauty",
-    "type":"Beauty",
+    "department":"Beauty",
     "brand":"Oral B",
     "model":"Hair Care",
     "price":69,
@@ -1700,7 +1700,7 @@
   {
     "id":97,
     "title":"Product 97 Electronics",
-    "type":"Electronics",
+    "department":"Electronics",
     "brand":"Logitech",
     "model":"Apple TV - 32GB (4th Generation)",
     "price":1633,
@@ -1714,7 +1714,7 @@
   {
     "id":98,
     "title":"Product 98 Grocery",
-    "type":"Grocery",
+    "department":"Grocery",
     "brand":"Sauces",
     "model":"Cheese - Parmesan Cubes",
     "price":91,
@@ -1735,7 +1735,7 @@
   {
     "id":99,
     "title":"Product 99 Grocery",
-    "type":"Grocery",
+    "department":"Grocery",
     "brand":"Breads & Bakery",
     "model":"Beef - Eye Of Round",
     "price":49,
@@ -1753,7 +1753,7 @@
   {
     "id":100,
     "title":"Product 100 Books",
-    "type":"Books",
+    "department":"Books",
     "brand":"Bone Music (The Burning Girl Series Book 1)",
     "model":"Lisa Wingate",
     "price":12,
@@ -1775,7 +1775,7 @@
   {
     "id":101,
     "title":"Product 101 Clothing",
-    "type":"Clothing",
+    "department":"Clothing",
     "brand":"Kenneth Cole REACTION",
     "model":"Fashion Hoodies & Sweatshirts",
     "price":54,
@@ -1796,7 +1796,7 @@
   {
     "id":102,
     "title":"Product 102 Outdoors",
-    "type":"Outdoors",
+    "department":"Outdoors",
     "brand":"Water Sports",
     "model":"Camp Kitchen",
     "price":1011,
@@ -1811,7 +1811,7 @@
   {
     "id":103,
     "title":"Product 103 Grocery",
-    "type":"Grocery",
+    "department":"Grocery",
     "brand":"Breads & Bakery",
     "model":"Shrimp - 21/25, Peel And Deviened",
     "price":33,
@@ -1826,7 +1826,7 @@
   {
     "id":104,
     "title":"Product 104 Outdoors",
-    "type":"Outdoors",
+    "department":"Outdoors",
     "brand":"Camping & Hiking",
     "model":"Tents & Shelters",
     "price":1799,
@@ -1839,7 +1839,7 @@
   {
     "id":105,
     "title":"Product 105 Toys",
-    "type":"Toys",
+    "department":"Toys",
     "brand":"Star Wars",
     "model":"Puzzles",
     "price":91,
@@ -1859,7 +1859,7 @@
   {
     "id":106,
     "title":"Product 106 Electronics",
-    "type":"Electronics",
+    "department":"Electronics",
     "brand":"LG",
     "model":"Apple TV - 32GB (4th Generation)",
     "price":598,
@@ -1875,7 +1875,7 @@
   {
     "id":107,
     "title":"Product 107 Toys",
-    "type":"Toys",
+    "department":"Toys",
     "brand":"Pokemon",
     "model":"Action Figures & Statues",
     "price":78,
@@ -1890,7 +1890,7 @@
   {
     "id":108,
     "title":"Product 108 Beauty",
-    "type":"Beauty",
+    "department":"Beauty",
     "brand":"Crest",
     "model":"Fragrance",
     "price":32,
@@ -1908,7 +1908,7 @@
   {
     "id":109,
     "title":"Product 109 Electronics",
-    "type":"Electronics",
+    "department":"Electronics",
     "brand":"Samsumg",
     "model":"X900E series",
     "price":1768,
@@ -1926,7 +1926,7 @@
   {
     "id":110,
     "title":"Product 110 Beauty",
-    "type":"Beauty",
+    "department":"Beauty",
     "brand":"Q-Tips",
     "model":"Fragrance",
     "price":18,
@@ -1945,7 +1945,7 @@
   {
     "id":111,
     "title":"Product 111 Automotive",
-    "type":"Automotive",
+    "department":"Automotive",
     "brand":"Filters",
     "model":"interior accessories",
     "price":1272,
@@ -1963,7 +1963,7 @@
   {
     "id":112,
     "title":"Product 112 Toys",
-    "type":"Toys",
+    "department":"Toys",
     "brand":"Pokemon",
     "model":"Action Figures & Statues",
     "price":80,
@@ -1980,7 +1980,7 @@
   {
     "id":113,
     "title":"Product 113 Grocery",
-    "type":"Grocery",
+    "department":"Grocery",
     "brand":"Herbs, Spices & Seasonings",
     "model":"Bacon Strip Precooked",
     "price":82,
@@ -1996,7 +1996,7 @@
   {
     "id":114,
     "title":"Product 114 Toys",
-    "type":"Toys",
+    "department":"Toys",
     "brand":"Pokemon",
     "model":"Kids Electronics",
     "price":31,
@@ -2010,7 +2010,7 @@
   {
     "id":115,
     "title":"Product 115 Outdoors",
-    "type":"Outdoors",
+    "department":"Outdoors",
     "brand":"Water Sports",
     "model":"Backpacks",
     "price":1906,
@@ -2027,7 +2027,7 @@
   {
     "id":116,
     "title":"Product 116 Electronics",
-    "type":"Electronics",
+    "department":"Electronics",
     "brand":"Samsumg",
     "model":"MU6300 series",
     "price":303,
@@ -2047,7 +2047,7 @@
   {
     "id":117,
     "title":"Product 117 Outdoors",
-    "type":"Outdoors",
+    "department":"Outdoors",
     "brand":"Climbing",
     "model":"Bike",
     "price":758,
@@ -2063,7 +2063,7 @@
   {
     "id":118,
     "title":"Product 118 Home/Garden",
-    "type":"Home/Garden",
+    "department":"Home/Garden",
     "brand":"Home Decor",
     "model":"Lamp",
     "price":2030,
@@ -2080,7 +2080,7 @@
   {
     "id":119,
     "title":"Product 119 Clothing",
-    "type":"Clothing",
+    "department":"Clothing",
     "brand":"RVCA",
     "model":"Shorts",
     "price":250,
@@ -2095,7 +2095,7 @@
   {
     "id":120,
     "title":"Product 120 Books",
-    "type":"Books",
+    "department":"Books",
     "brand":"The Tuscan Child",
     "model":"Roger Priddy",
     "price":7,
@@ -2114,7 +2114,7 @@
   {
     "id":121,
     "title":"Product 121 Books",
-    "type":"Books",
+    "department":"Books",
     "brand":"Bone Music (The Burning Girl Series Book 1)",
     "model":"Roger Priddy",
     "price":2,
@@ -2132,7 +2132,7 @@
   {
     "id":122,
     "title":"Product 122 Automotive",
-    "type":"Automotive",
+    "department":"Automotive",
     "brand":"Body & Trim",
     "model":"tools & equipment",
     "price":2097,
@@ -2150,7 +2150,7 @@
   {
     "id":123,
     "title":"Product 123 Toys",
-    "type":"Toys",
+    "department":"Toys",
     "brand":"Nerf",
     "model":"Novelty & Gag Toys",
     "price":58,
@@ -2167,7 +2167,7 @@
   {
     "id":124,
     "title":"Product 124 Movies",
-    "type":"Movies",
+    "department":"Movies",
     "brand":"Logan's Run",
     "model":"Cole Funcheon",
     "price":9,
@@ -2183,7 +2183,7 @@
   {
     "id":125,
     "title":"Product 125 Toys",
-    "type":"Toys",
+    "department":"Toys",
     "brand":"Star Wars",
     "model":"Stuffed Animals & Plush Toys",
     "price":31,
@@ -2196,7 +2196,7 @@
   {
     "id":126,
     "title":"Product 126 Toys",
-    "type":"Toys",
+    "department":"Toys",
     "brand":"Marvel",
     "model":"Stuffed Animals & Plush Toys",
     "price":51,
@@ -2210,7 +2210,7 @@
   {
     "id":127,
     "title":"Product 127 Clothing",
-    "type":"Clothing",
+    "department":"Clothing",
     "brand":"Carhartt",
     "model":"Shirts",
     "price":145,
@@ -2224,7 +2224,7 @@
   {
     "id":128,
     "title":"Product 128 Books",
-    "type":"Books",
+    "department":"Books",
     "brand":"Secondborn: Secondborn, Book 1",
     "model":"Christopher Rice",
     "price":13,
@@ -2242,7 +2242,7 @@
   {
     "id":129,
     "title":"Product 129 Electronics",
-    "type":"Electronics",
+    "department":"Electronics",
     "brand":"Amazon",
     "model":"C7 OLED series",
     "price":1989,
@@ -2260,7 +2260,7 @@
   {
     "id":130,
     "title":"Product 130 Automotive",
-    "type":"Automotive",
+    "department":"Automotive",
     "brand":"Exhaust System",
     "model":"parts",
     "price":942,
@@ -2278,7 +2278,7 @@
   {
     "id":131,
     "title":"Product 131 Electronics",
-    "type":"Electronics",
+    "department":"Electronics",
     "brand":"Roku",
     "model":"C7 OLED series",
     "price":137,
@@ -2293,7 +2293,7 @@
   {
     "id":132,
     "title":"Product 132 Grocery",
-    "type":"Grocery",
+    "department":"Grocery",
     "brand":"Olives, Pickles & Relishes",
     "model":"Veal - Tenderloin, Untrimmed",
     "price":63,
@@ -2316,7 +2316,7 @@
   {
     "id":133,
     "title":"Product 133 Grocery",
-    "type":"Grocery",
+    "department":"Grocery",
     "brand":"Prepared Foods",
     "model":"Bacon Strip Precooked",
     "price":56,
@@ -2329,7 +2329,7 @@
   {
     "id":134,
     "title":"Product 134 Electronics",
-    "type":"Electronics",
+    "department":"Electronics",
     "brand":"Apple",
     "model":"Apple TV - 32GB (4th Generation)",
     "price":215,
@@ -2345,7 +2345,7 @@
   {
     "id":135,
     "title":"Product 135 Electronics",
-    "type":"Electronics",
+    "department":"Electronics",
     "brand":"Sony",
     "model":"S305 series",
     "price":239,
@@ -2361,7 +2361,7 @@
   {
     "id":136,
     "title":"Product 136 Electronics",
-    "type":"Electronics",
+    "department":"Electronics",
     "brand":"LG",
     "model":"X900E series",
     "price":1192,
@@ -2379,7 +2379,7 @@
   {
     "id":137,
     "title":"Product 137 Automotive",
-    "type":"Automotive",
+    "department":"Automotive",
     "brand":"Filters",
     "model":"tools & equipment",
     "price":2541,
@@ -2395,7 +2395,7 @@
   {
     "id":138,
     "title":"Product 138 Electronics",
-    "type":"Electronics",
+    "department":"Electronics",
     "brand":"Roku",
     "model":"Fire TV Stick with Alexa Voice Remote",
     "price":1074,
@@ -2409,7 +2409,7 @@
   {
     "id":139,
     "title":"Product 139 Electronics",
-    "type":"Electronics",
+    "department":"Electronics",
     "brand":"Sony",
     "model":"X900E series",
     "price":2225,
@@ -2425,7 +2425,7 @@
   {
     "id":140,
     "title":"Product 140 Grocery",
-    "type":"Grocery",
+    "department":"Grocery",
     "brand":"Cooking & Baking",
     "model":"Figs",
     "price":86,
@@ -2445,7 +2445,7 @@
   {
     "id":141,
     "title":"Product 141 Electronics",
-    "type":"Electronics",
+    "department":"Electronics",
     "brand":"Samsumg",
     "model":"Apple TV - 32GB (4th Generation)",
     "price":225,
@@ -2461,7 +2461,7 @@
   {
     "id":142,
     "title":"Product 142 Books",
-    "type":"Books",
+    "department":"Books",
     "brand":"The Dead Key",
     "model":"Christopher Rice",
     "price":13,
@@ -2477,7 +2477,7 @@
   {
     "id":143,
     "title":"Product 143 Clothing",
-    "type":"Clothing",
+    "department":"Clothing",
     "brand":"O'Neill",
     "model":"Jewelry",
     "price":252,
@@ -2490,7 +2490,7 @@
   {
     "id":144,
     "title":"Product 144 Toys",
-    "type":"Toys",
+    "department":"Toys",
     "brand":"Marvel",
     "model":"Party Supplies",
     "price":30,
@@ -2508,7 +2508,7 @@
   {
     "id":145,
     "title":"Product 145 Grocery",
-    "type":"Grocery",
+    "department":"Grocery",
     "brand":"Packaged Meals & Side Dishes",
     "model":"Caviar - Salmon",
     "price":5,
@@ -2522,7 +2522,7 @@
   {
     "id":146,
     "title":"Product 146 Toys",
-    "type":"Toys",
+    "department":"Toys",
     "brand":"Barbie",
     "model":"Building Toys",
     "price":55,
@@ -2537,7 +2537,7 @@
   {
     "id":147,
     "title":"Product 147 Outdoors",
-    "type":"Outdoors",
+    "department":"Outdoors",
     "brand":"Water Sports",
     "model":"Lights & Lanterns",
     "price":1724,
@@ -2555,7 +2555,7 @@
   {
     "id":148,
     "title":"Product 148 Movies",
-    "type":"Movies",
+    "department":"Movies",
     "brand":"Blade Runner 2049",
     "model":"Karel Camacho",
     "price":17,
@@ -2573,7 +2573,7 @@
   {
     "id":149,
     "title":"Product 149 Clothing",
-    "type":"Clothing",
+    "department":"Clothing",
     "brand":"Columbia",
     "model":"Jewelry",
     "price":220,
@@ -2593,7 +2593,7 @@
   {
     "id":150,
     "title":"Product 150 Toys",
-    "type":"Toys",
+    "department":"Toys",
     "brand":"Nerf",
     "model":"Action Figures & Statues",
     "price":68,
@@ -2611,7 +2611,7 @@
   {
     "id":151,
     "title":"Product 151 Home/Garden",
-    "type":"Home/Garden",
+    "department":"Home/Garden",
     "brand":"Bed & Bath",
     "model":"Matress",
     "price":653,
@@ -2627,7 +2627,7 @@
   {
     "id":152,
     "title":"Product 152 Books",
-    "type":"Books",
+    "department":"Books",
     "brand":"West Cork",
     "model":"Matthew Wade",
     "price":2,
@@ -2646,7 +2646,7 @@
   {
     "id":153,
     "title":"Product 153 Outdoors",
-    "type":"Outdoors",
+    "department":"Outdoors",
     "brand":"Water Sports",
     "model":"Safety & Survival",
     "price":27,
@@ -2662,7 +2662,7 @@
   {
     "id":154,
     "title":"Product 154 Movies",
-    "type":"Movies",
+    "department":"Movies",
     "brand":"Of Gods and Men (Des hommes et des dieux)",
     "model":"Staford Gourdon",
     "price":15,
@@ -2675,7 +2675,7 @@
   {
     "id":155,
     "title":"Product 155 Grocery",
-    "type":"Grocery",
+    "department":"Grocery",
     "brand":"Canned, Jarred & Packaged Foods",
     "model":"Shrimp - 21/25, Peel And Deviened",
     "price":33,
@@ -2697,7 +2697,7 @@
   {
     "id":156,
     "title":"Product 156 Beauty",
-    "type":"Beauty",
+    "department":"Beauty",
     "brand":"Neutrogena",
     "model":"Makeup",
     "price":40,
@@ -2717,7 +2717,7 @@
   {
     "id":157,
     "title":"Product 157 Home/Garden",
-    "type":"Home/Garden",
+    "department":"Home/Garden",
     "brand":"Bed & Bath",
     "model":"Blanket",
     "price":586,
@@ -2741,7 +2741,7 @@
   {
     "id":158,
     "title":"Product 158 Beauty",
-    "type":"Beauty",
+    "department":"Beauty",
     "brand":"Oral B",
     "model":"Shave & Hair Removal",
     "price":94,
@@ -2764,7 +2764,7 @@
   {
     "id":159,
     "title":"Product 159 Books",
-    "type":"Books",
+    "department":"Books",
     "brand":"Love from The Very Hungry Caterpillar",
     "model":"Rhys Bowen",
     "price":9,
@@ -2779,7 +2779,7 @@
   {
     "id":160,
     "title":"Product 160 Automotive",
-    "type":"Automotive",
+    "department":"Automotive",
     "brand":"Lighting",
     "model":"tools & equipment",
     "price":3332,
@@ -2800,7 +2800,7 @@
   {
     "id":161,
     "title":"Product 161 Home/Garden",
-    "type":"Home/Garden",
+    "department":"Home/Garden",
     "brand":"Furniture",
     "model":"Light Bulbs",
     "price":842,
@@ -2819,7 +2819,7 @@
   {
     "id":162,
     "title":"Product 162 Movies",
-    "type":"Movies",
+    "department":"Movies",
     "brand":"Tai-Pan",
     "model":"Margaretta Tompkin",
     "price":21,
@@ -2835,7 +2835,7 @@
   {
     "id":163,
     "title":"Product 163 Movies",
-    "type":"Movies",
+    "department":"Movies",
     "brand":"Deadly Advice",
     "model":"Steward Duggon",
     "price":23,
@@ -2853,7 +2853,7 @@
   {
     "id":164,
     "title":"Product 164 Outdoors",
-    "type":"Outdoors",
+    "department":"Outdoors",
     "brand":"Skate",
     "model":"Trekking Poles",
     "price":694,
@@ -2872,7 +2872,7 @@
   {
     "id":165,
     "title":"Product 165 Grocery",
-    "type":"Grocery",
+    "department":"Grocery",
     "brand":"Produce",
     "model":"Beef - Outside, Round",
     "price":83,
@@ -2887,7 +2887,7 @@
   {
     "id":166,
     "title":"Product 166 Books",
-    "type":"Books",
+    "department":"Books",
     "brand":"First 100 Words",
     "model":"Eoin Dempsey",
     "price":5,
@@ -2902,7 +2902,7 @@
   {
     "id":167,
     "title":"Product 167 Grocery",
-    "type":"Grocery",
+    "department":"Grocery",
     "brand":"Fresh Flowers & Live Indoor Plants",
     "model":"Caviar - Salmon",
     "price":69,
@@ -2919,7 +2919,7 @@
   {
     "id":168,
     "title":"Product 168 Electronics",
-    "type":"Electronics",
+    "department":"Electronics",
     "brand":"Sony",
     "model":"C7 OLED series",
     "price":51,
@@ -2935,7 +2935,7 @@
   {
     "id":169,
     "title":"Product 169 Automotive",
-    "type":"Automotive",
+    "department":"Automotive",
     "brand":"Body & Trim",
     "model":"tools & equipment",
     "price":2612,
@@ -2952,7 +2952,7 @@
   {
     "id":170,
     "title":"Product 170 Outdoors",
-    "type":"Outdoors",
+    "department":"Outdoors",
     "brand":"Skate",
     "model":"Sleeping Bags",
     "price":501,
@@ -2970,7 +2970,7 @@
   {
     "id":171,
     "title":"Product 171 Grocery",
-    "type":"Grocery",
+    "department":"Grocery",
     "brand":"Produce",
     "model":"Shrimp - 21/25, Peel And Deviened",
     "price":71,
@@ -2985,7 +2985,7 @@
   {
     "id":172,
     "title":"Product 172 Toys",
-    "type":"Toys",
+    "department":"Toys",
     "brand":"Barbie",
     "model":"Puppets",
     "price":25,
@@ -3003,7 +3003,7 @@
   {
     "id":173,
     "title":"Product 173 Toys",
-    "type":"Toys",
+    "department":"Toys",
     "brand":"Yu-Gi-Oh!",
     "model":"Games",
     "price":74,
@@ -3016,7 +3016,7 @@
   {
     "id":174,
     "title":"Product 174 Electronics",
-    "type":"Electronics",
+    "department":"Electronics",
     "brand":"Samsumg",
     "model":"X900E series",
     "price":25,
@@ -3037,7 +3037,7 @@
   {
     "id":175,
     "title":"Product 175 Beauty",
-    "type":"Beauty",
+    "department":"Beauty",
     "brand":"Colgate",
     "model":"Fragrance",
     "price":79,
@@ -3058,7 +3058,7 @@
   {
     "id":176,
     "title":"Product 176 Beauty",
-    "type":"Beauty",
+    "department":"Beauty",
     "brand":"Oral B",
     "model":"Oral Care",
     "price":95,
@@ -3077,7 +3077,7 @@
   {
     "id":177,
     "title":"Product 177 Electronics",
-    "type":"Electronics",
+    "department":"Electronics",
     "brand":"Amazon",
     "model":"X900E series",
     "price":863,
@@ -3096,7 +3096,7 @@
   {
     "id":178,
     "title":"Product 178 Books",
-    "type":"Books",
+    "department":"Books",
     "brand":"First 100 Words",
     "model":"Eric Carle",
     "price":5,
@@ -3113,7 +3113,7 @@
   {
     "id":179,
     "title":"Product 179 Clothing",
-    "type":"Clothing",
+    "department":"Clothing",
     "brand":"Dockers",
     "model":"T-Shirts & Tanks",
     "price":200,
@@ -3129,7 +3129,7 @@
   {
     "id":180,
     "title":"Product 180 Outdoors",
-    "type":"Outdoors",
+    "department":"Outdoors",
     "brand":"Camping & Hiking",
     "model":"Tents & Shelters",
     "price":441,
@@ -3145,7 +3145,7 @@
   {
     "id":181,
     "title":"Product 181 Electronics",
-    "type":"Electronics",
+    "department":"Electronics",
     "brand":"Samsumg",
     "model":"Fire TV Stick with Alexa Voice Remote",
     "price":596,
@@ -3163,7 +3163,7 @@
   {
     "id":182,
     "title":"Product 182 Outdoors",
-    "type":"Outdoors",
+    "department":"Outdoors",
     "brand":"Cycling",
     "model":"Backpacks",
     "price":1889,
@@ -3181,7 +3181,7 @@
   {
     "id":183,
     "title":"Product 183 Grocery",
-    "type":"Grocery",
+    "department":"Grocery",
     "brand":"Fresh Flowers & Live Indoor Plants",
     "model":"Bacardi Mojito",
     "price":60,
@@ -3197,7 +3197,7 @@
   {
     "id":184,
     "title":"Product 184 Clothing",
-    "type":"Clothing",
+    "department":"Clothing",
     "brand":"Dockers",
     "model":"Watches",
     "price":200,
@@ -3213,7 +3213,7 @@
   {
     "id":185,
     "title":"Product 185 Clothing",
-    "type":"Clothing",
+    "department":"Clothing",
     "brand":"Lacoste",
     "model":"Shoes",
     "price":51,
@@ -3229,7 +3229,7 @@
   {
     "id":186,
     "title":"Product 186 Grocery",
-    "type":"Grocery",
+    "department":"Grocery",
     "brand":"Stocks & Broths",
     "model":"Chips Potato All Dressed - 43g",
     "price":19,
@@ -3249,7 +3249,7 @@
   {
     "id":187,
     "title":"Product 187 Beauty",
-    "type":"Beauty",
+    "department":"Beauty",
     "brand":"Dove",
     "model":"Personal Care",
     "price":10,
@@ -3262,7 +3262,7 @@
   {
     "id":188,
     "title":"Product 188 Electronics",
-    "type":"Electronics",
+    "department":"Electronics",
     "brand":"LG",
     "model":"Fire TV Stick with Alexa Voice Remote",
     "price":1461,
@@ -3279,7 +3279,7 @@
   {
     "id":189,
     "title":"Product 189 Automotive",
-    "type":"Automotive",
+    "department":"Automotive",
     "brand":"Brake System",
     "model":"tools & equipment",
     "price":2631,
@@ -3296,7 +3296,7 @@
   {
     "id":190,
     "title":"Product 190 Electronics",
-    "type":"Electronics",
+    "department":"Electronics",
     "brand":"NVDIA",
     "model":"Apple TV - 32GB (4th Generation)",
     "price":212,
@@ -3313,7 +3313,7 @@
   {
     "id":191,
     "title":"Product 191 Movies",
-    "type":"Movies",
+    "department":"Movies",
     "brand":"First Blood (Rambo: First Blood)",
     "model":"Stevana Crate",
     "price":13,
@@ -3329,7 +3329,7 @@
   {
     "id":192,
     "title":"Product 192 Movies",
-    "type":"Movies",
+    "department":"Movies",
     "brand":"Deadly Advice",
     "model":"Margaretta Tompkin",
     "price":28,
@@ -3345,7 +3345,7 @@
   {
     "id":193,
     "title":"Product 193 Clothing",
-    "type":"Clothing",
+    "department":"Clothing",
     "brand":"RVCA",
     "model":"Sweaters",
     "price":183,
@@ -3364,7 +3364,7 @@
   {
     "id":194,
     "title":"Product 194 Toys",
-    "type":"Toys",
+    "department":"Toys",
     "brand":"Barbie",
     "model":"Dolls & Accessories",
     "price":42,
@@ -3383,7 +3383,7 @@
   {
     "id":195,
     "title":"Product 195 Automotive",
-    "type":"Automotive",
+    "department":"Automotive",
     "brand":"Brake System",
     "model":"parts",
     "price":1055,
@@ -3401,7 +3401,7 @@
   {
     "id":196,
     "title":"Product 196 Automotive",
-    "type":"Automotive",
+    "department":"Automotive",
     "brand":"Lighting",
     "model":"parts",
     "price":698,
@@ -3419,7 +3419,7 @@
   {
     "id":197,
     "title":"Product 197 Outdoors",
-    "type":"Outdoors",
+    "department":"Outdoors",
     "brand":"Cycling",
     "model":"Trekking Poles",
     "price":1942,
@@ -3435,7 +3435,7 @@
   {
     "id":198,
     "title":"Product 198 Books",
-    "type":"Books",
+    "department":"Books",
     "brand":"Love from The Very Hungry Caterpillar",
     "model":"Lisa Wingate",
     "price":6,
@@ -3451,7 +3451,7 @@
   {
     "id":199,
     "title":"Product 199 Outdoors",
-    "type":"Outdoors",
+    "department":"Outdoors",
     "brand":"Cycling",
     "model":"Sleeping Bags",
     "price":789,
@@ -3465,7 +3465,7 @@
   {
     "id":200,
     "title":"Product 200 Toys",
-    "type":"Toys",
+    "department":"Toys",
     "brand":"Marvel",
     "model":"Party Supplies",
     "price":18,
@@ -3481,7 +3481,7 @@
   {
     "id":201,
     "title":"Product 201 Clothing",
-    "type":"Clothing",
+    "department":"Clothing",
     "brand":"RVCA",
     "model":"Jewelry",
     "price":269,
@@ -3501,7 +3501,7 @@
   {
     "id":202,
     "title":"Product 202 Toys",
-    "type":"Toys",
+    "department":"Toys",
     "brand":"Marvel",
     "model":"Arts & Crafts",
     "price":21,
@@ -3517,7 +3517,7 @@
   {
     "id":203,
     "title":"Product 203 Outdoors",
-    "type":"Outdoors",
+    "department":"Outdoors",
     "brand":"Skate",
     "model":"Backpacks",
     "price":1016,
@@ -3535,7 +3535,7 @@
   {
     "id":204,
     "title":"Product 204 Clothing",
-    "type":"Clothing",
+    "department":"Clothing",
     "brand":"Lacoste",
     "model":"Jackets & Coats",
     "price":227,
@@ -3550,7 +3550,7 @@
   {
     "id":205,
     "title":"Product 205 Beauty",
-    "type":"Beauty",
+    "department":"Beauty",
     "brand":"Dove",
     "model":"Shave & Hair Removal",
     "price":38,
@@ -3571,7 +3571,7 @@
   {
     "id":206,
     "title":"Product 206 Electronics",
-    "type":"Electronics",
+    "department":"Electronics",
     "brand":"Logitech",
     "model":"C7 OLED series",
     "price":1233,
@@ -3590,7 +3590,7 @@
   {
     "id":207,
     "title":"Product 207 Home/Garden",
-    "type":"Home/Garden",
+    "department":"Home/Garden",
     "brand":"Home Decor",
     "model":"Blanket",
     "price":114,
@@ -3608,7 +3608,7 @@
   {
     "id":208,
     "title":"Product 208 Books",
-    "type":"Books",
+    "department":"Books",
     "brand":"Goodnight Moon",
     "model":"Caroline Mitchell",
     "price":10,
@@ -3628,7 +3628,7 @@
   {
     "id":209,
     "title":"Product 209 Toys",
-    "type":"Toys",
+    "department":"Toys",
     "brand":"Magic the Gathering",
     "model":"Puzzles",
     "price":64,
@@ -3645,7 +3645,7 @@
   {
     "id":210,
     "title":"Product 210 Home/Garden",
-    "type":"Home/Garden",
+    "department":"Home/Garden",
     "brand":"Bed & Bath",
     "model":"Lamp",
     "price":1677,
@@ -3663,7 +3663,7 @@
   {
     "id":211,
     "title":"Product 211 Toys",
-    "type":"Toys",
+    "department":"Toys",
     "brand":"Yu-Gi-Oh!",
     "model":"Sports & Outdoor Play",
     "price":42,
@@ -3682,7 +3682,7 @@
   {
     "id":212,
     "title":"Product 212 Grocery",
-    "type":"Grocery",
+    "department":"Grocery",
     "brand":"Canned, Jarred & Packaged Foods",
     "model":"Bacon Strip Precooked",
     "price":67,
@@ -3698,7 +3698,7 @@
   {
     "id":213,
     "title":"Product 213 Automotive",
-    "type":"Automotive",
+    "department":"Automotive",
     "brand":"Exhaust System",
     "model":"parts",
     "price":1974,
@@ -3714,7 +3714,7 @@
   {
     "id":214,
     "title":"Product 214 Toys",
-    "type":"Toys",
+    "department":"Toys",
     "brand":"Marvel",
     "model":"Games",
     "price":15,
@@ -3727,7 +3727,7 @@
   {
     "id":215,
     "title":"Product 215 Beauty",
-    "type":"Beauty",
+    "department":"Beauty",
     "brand":"Crest",
     "model":"Makeup",
     "price":38,
@@ -3746,7 +3746,7 @@
   {
     "id":216,
     "title":"Product 216 Books",
-    "type":"Books",
+    "department":"Books",
     "brand":"First 100 Words",
     "model":"Eric Carle",
     "price":17,
@@ -3763,7 +3763,7 @@
   {
     "id":217,
     "title":"Product 217 Movies",
-    "type":"Movies",
+    "department":"Movies",
     "brand":"The Monkey King",
     "model":"Milt Boucher",
     "price":26,
@@ -3776,7 +3776,7 @@
   {
     "id":218,
     "title":"Product 218 Toys",
-    "type":"Toys",
+    "department":"Toys",
     "brand":"Marvel",
     "model":"Puppets",
     "price":97,
@@ -3793,7 +3793,7 @@
   {
     "id":219,
     "title":"Product 219 Outdoors",
-    "type":"Outdoors",
+    "department":"Outdoors",
     "brand":"Cycling",
     "model":"Trekking Poles",
     "price":466,
@@ -3809,7 +3809,7 @@
   {
     "id":220,
     "title":"Product 220 Books",
-    "type":"Books",
+    "department":"Books",
     "brand":"Silent Victim",
     "model":"Eric Carle",
     "price":2,
@@ -3823,7 +3823,7 @@
   {
     "id":221,
     "title":"Product 221 Home/Garden",
-    "type":"Home/Garden",
+    "department":"Home/Garden",
     "brand":"Lighting",
     "model":"Bed Frame",
     "price":2012,
@@ -3840,7 +3840,7 @@
   {
     "id":222,
     "title":"Product 222 Home/Garden",
-    "type":"Home/Garden",
+    "department":"Home/Garden",
     "brand":"Lighting",
     "model":"Bar Stools",
     "price":963,
@@ -3855,7 +3855,7 @@
   {
     "id":223,
     "title":"Product 223 Toys",
-    "type":"Toys",
+    "department":"Toys",
     "brand":"Yu-Gi-Oh!",
     "model":"Arts & Crafts",
     "price":55,
@@ -3872,7 +3872,7 @@
   {
     "id":224,
     "title":"Product 224 Electronics",
-    "type":"Electronics",
+    "department":"Electronics",
     "brand":"NVDIA",
     "model":"X900E series",
     "price":611,
@@ -3888,7 +3888,7 @@
   {
     "id":225,
     "title":"Product 225 Electronics",
-    "type":"Electronics",
+    "department":"Electronics",
     "brand":"LG",
     "model":"S305 series",
     "price":1575,
@@ -3903,7 +3903,7 @@
   {
     "id":226,
     "title":"Product 226 Automotive",
-    "type":"Automotive",
+    "department":"Automotive",
     "brand":"Wiper Blades",
     "model":"parts",
     "price":1094,
@@ -3921,7 +3921,7 @@
   {
     "id":227,
     "title":"Product 227 Books",
-    "type":"Books",
+    "department":"Books",
     "brand":"West Cork",
     "model":"Margaret Wise Brown, Clement Hurd",
     "price":12,
@@ -3936,7 +3936,7 @@
   {
     "id":228,
     "title":"Product 228 Outdoors",
-    "type":"Outdoors",
+    "department":"Outdoors",
     "brand":"Camping & Hiking",
     "model":"Lights & Lanterns",
     "price":652,
@@ -3954,7 +3954,7 @@
   {
     "id":229,
     "title":"Product 229 Books",
-    "type":"Books",
+    "department":"Books",
     "brand":"The Chef and the Slow Cooker",
     "model":"Margaret Wise Brown, Clement Hurd",
     "price":2,
@@ -3967,7 +3967,7 @@
   {
     "id":230,
     "title":"Product 230 Clothing",
-    "type":"Clothing",
+    "department":"Clothing",
     "brand":"Kenneth Cole REACTION",
     "model":"Watches",
     "price":195,
@@ -3983,7 +3983,7 @@
   {
     "id":231,
     "title":"Product 231 Home/Garden",
-    "type":"Home/Garden",
+    "department":"Home/Garden",
     "brand":"Floor Care",
     "model":"Table",
     "price":2754,
@@ -3998,7 +3998,7 @@
   {
     "id":232,
     "title":"Product 232 Electronics",
-    "type":"Electronics",
+    "department":"Electronics",
     "brand":"Apple",
     "model":"Apple TV - 32GB (4th Generation)",
     "price":258,
@@ -4012,7 +4012,7 @@
   {
     "id":233,
     "title":"Product 233 Beauty",
-    "type":"Beauty",
+    "department":"Beauty",
     "brand":"Oral B",
     "model":"Shave & Hair Removal",
     "price":63,
@@ -4032,7 +4032,7 @@
   {
     "id":234,
     "title":"Product 234 Automotive",
-    "type":"Automotive",
+    "department":"Automotive",
     "brand":"Filters",
     "model":"car care",
     "price":3447,
@@ -4048,7 +4048,7 @@
   {
     "id":235,
     "title":"Product 235 Clothing",
-    "type":"Clothing",
+    "department":"Clothing",
     "brand":"Dickies",
     "model":"Sleep & Lounge",
     "price":141,
@@ -4061,7 +4061,7 @@
   {
     "id":236,
     "title":"Product 236 Clothing",
-    "type":"Clothing",
+    "department":"Clothing",
     "brand":"Under Armour",
     "model":"Shirts",
     "price":242,
@@ -4081,7 +4081,7 @@
   {
     "id":237,
     "title":"Product 237 Outdoors",
-    "type":"Outdoors",
+    "department":"Outdoors",
     "brand":"Climbing",
     "model":"Bike",
     "price":1381,
@@ -4103,7 +4103,7 @@
   {
     "id":238,
     "title":"Product 238 Home/Garden",
-    "type":"Home/Garden",
+    "department":"Home/Garden",
     "brand":"Heating & Cooling",
     "model":"Towels",
     "price":619,
@@ -4121,7 +4121,7 @@
   {
     "id":239,
     "title":"Product 239 Beauty",
-    "type":"Beauty",
+    "department":"Beauty",
     "brand":"Neutrogena",
     "model":"Personal Care",
     "price":47,
@@ -4143,7 +4143,7 @@
   {
     "id":240,
     "title":"Product 240 Beauty",
-    "type":"Beauty",
+    "department":"Beauty",
     "brand":"Gillette",
     "model":"Shave & Hair Removal",
     "price":31,
@@ -4158,7 +4158,7 @@
   {
     "id":241,
     "title":"Product 241 Books",
-    "type":"Books",
+    "department":"Books",
     "brand":"Silent Victim",
     "model":"Eric Carle",
     "price":10,
@@ -4174,7 +4174,7 @@
   {
     "id":242,
     "title":"Product 242 Home/Garden",
-    "type":"Home/Garden",
+    "department":"Home/Garden",
     "brand":"Storage & Orgamization",
     "model":"Pillows",
     "price":242,
@@ -4189,7 +4189,7 @@
   {
     "id":243,
     "title":"Product 243 Home/Garden",
-    "type":"Home/Garden",
+    "department":"Home/Garden",
     "brand":"Pet Supplies",
     "model":"Light Bulbs",
     "price":1994,
@@ -4206,7 +4206,7 @@
   {
     "id":244,
     "title":"Product 244 Automotive",
-    "type":"Automotive",
+    "department":"Automotive",
     "brand":"Wiper Blades",
     "model":"wheels",
     "price":372,
@@ -4225,7 +4225,7 @@
   {
     "id":245,
     "title":"Product 245 Movies",
-    "type":"Movies",
+    "department":"Movies",
     "brand":"Vanya on 42nd Street",
     "model":"Pierette Gregon",
     "price":27,
@@ -4239,7 +4239,7 @@
   {
     "id":246,
     "title":"Product 246 Beauty",
-    "type":"Beauty",
+    "department":"Beauty",
     "brand":"Crest",
     "model":"Foot, Hand & Nail Care",
     "price":73,
@@ -4256,7 +4256,7 @@
   {
     "id":247,
     "title":"Product 247 Movies",
-    "type":"Movies",
+    "department":"Movies",
     "brand":"Emerald Cowboy",
     "model":"Corry Pigford",
     "price":16,
@@ -4272,7 +4272,7 @@
   {
     "id":248,
     "title":"Product 248 Home/Garden",
-    "type":"Home/Garden",
+    "department":"Home/Garden",
     "brand":"Lighting",
     "model":"Chair Sets",
     "price":2215,
@@ -4285,7 +4285,7 @@
   {
     "id":249,
     "title":"Product 249 Automotive",
-    "type":"Automotive",
+    "department":"Automotive",
     "brand":"Shocks & Struts",
     "model":"car care",
     "price":1471,
@@ -4301,7 +4301,7 @@
   {
     "id":250,
     "title":"Product 250 Electronics",
-    "type":"Electronics",
+    "department":"Electronics",
     "brand":"NVDIA",
     "model":"S305 series",
     "price":2407,
@@ -4314,7 +4314,7 @@
   {
     "id":251,
     "title":"Product 251 Automotive",
-    "type":"Automotive",
+    "department":"Automotive",
     "brand":"Lighting",
     "model":"tools & equipment",
     "price":2384,
@@ -4332,7 +4332,7 @@
   {
     "id":252,
     "title":"Product 252 Automotive",
-    "type":"Automotive",
+    "department":"Automotive",
     "brand":"Brake System",
     "model":"tools & equipment",
     "price":3359,
@@ -4349,7 +4349,7 @@
   {
     "id":253,
     "title":"Product 253 Beauty",
-    "type":"Beauty",
+    "department":"Beauty",
     "brand":"Neutrogena",
     "model":"Shave & Hair Removal",
     "price":31,
@@ -4366,7 +4366,7 @@
   {
     "id":254,
     "title":"Product 254 Home/Garden",
-    "type":"Home/Garden",
+    "department":"Home/Garden",
     "brand":"Storage & Orgamization",
     "model":"Table",
     "price":324,
@@ -4382,7 +4382,7 @@
   {
     "id":255,
     "title":"Product 255 Clothing",
-    "type":"Clothing",
+    "department":"Clothing",
     "brand":"Under Armour",
     "model":"Underwear",
     "price":29,
@@ -4397,7 +4397,7 @@
   {
     "id":256,
     "title":"Product 256 Electronics",
-    "type":"Electronics",
+    "department":"Electronics",
     "brand":"Apple",
     "model":"MU6300 series",
     "price":1882,
@@ -4417,7 +4417,7 @@
   {
     "id":257,
     "title":"Product 257 Movies",
-    "type":"Movies",
+    "department":"Movies",
     "brand":"3rd World Hero (Bayaning Third World)",
     "model":"Brock Nitti",
     "price":15,
@@ -4434,7 +4434,7 @@
   {
     "id":258,
     "title":"Product 258 Toys",
-    "type":"Toys",
+    "department":"Toys",
     "brand":"Pokemon",
     "model":"Puzzles",
     "price":40,
@@ -4450,7 +4450,7 @@
   {
     "id":259,
     "title":"Product 259 Grocery",
-    "type":"Grocery",
+    "department":"Grocery",
     "brand":"Deli",
     "model":"Icecream",
     "price":96,
@@ -4465,7 +4465,7 @@
   {
     "id":260,
     "title":"Product 260 Movies",
-    "type":"Movies",
+    "department":"Movies",
     "brand":"Common",
     "model":"Brock Nitti",
     "price":19,
@@ -4492,7 +4492,7 @@
   {
     "id":261,
     "title":"Product 261 Grocery",
-    "type":"Grocery",
+    "department":"Grocery",
     "brand":"Cooking & Baking",
     "model":"Longos - Chicken Curried",
     "price":85,
@@ -4510,7 +4510,7 @@
   {
     "id":262,
     "title":"Product 262 Outdoors",
-    "type":"Outdoors",
+    "department":"Outdoors",
     "brand":"Water Sports",
     "model":"Camping Furniture",
     "price":1287,
@@ -4526,7 +4526,7 @@
   {
     "id":263,
     "title":"Product 263 Movies",
-    "type":"Movies",
+    "department":"Movies",
     "brand":"Of Gods and Men (Des hommes et des dieux)",
     "model":"Shawna Barensen",
     "price":14,
@@ -4544,7 +4544,7 @@
   {
     "id":264,
     "title":"Product 264 Toys",
-    "type":"Toys",
+    "department":"Toys",
     "brand":"Magic the Gathering",
     "model":"Hobbies",
     "price":13,
@@ -4559,7 +4559,7 @@
   {
     "id":265,
     "title":"Product 265 Grocery",
-    "type":"Grocery",
+    "department":"Grocery",
     "brand":"Snack Foods",
     "model":"Breakfast Quesadillas",
     "price":67,
@@ -4576,7 +4576,7 @@
   {
     "id":266,
     "title":"Product 266 Beauty",
-    "type":"Beauty",
+    "department":"Beauty",
     "brand":"Colgate",
     "model":"Skin Care",
     "price":67,
@@ -4591,7 +4591,7 @@
   {
     "id":267,
     "title":"Product 267 Grocery",
-    "type":"Grocery",
+    "department":"Grocery",
     "brand":"Cooking & Baking",
     "model":"Caviar - Salmon",
     "price":14,
@@ -4608,7 +4608,7 @@
   {
     "id":268,
     "title":"Product 268 Toys",
-    "type":"Toys",
+    "department":"Toys",
     "brand":"Yu-Gi-Oh!",
     "model":"Arts & Crafts",
     "price":61,
@@ -4627,7 +4627,7 @@
   {
     "id":269,
     "title":"Product 269 Automotive",
-    "type":"Automotive",
+    "department":"Automotive",
     "brand":"Exhaust System",
     "model":"parts",
     "price":1204,
@@ -4642,7 +4642,7 @@
   {
     "id":270,
     "title":"Product 270 Electronics",
-    "type":"Electronics",
+    "department":"Electronics",
     "brand":"Logitech",
     "model":"S305 series",
     "price":1273,
@@ -4661,7 +4661,7 @@
   {
     "id":271,
     "title":"Product 271 Grocery",
-    "type":"Grocery",
+    "department":"Grocery",
     "brand":"Wine",
     "model":"Potatoes - Mini White 3 Oz",
     "price":51,
@@ -4676,7 +4676,7 @@
   {
     "id":272,
     "title":"Product 272 Beauty",
-    "type":"Beauty",
+    "department":"Beauty",
     "brand":"Colgate",
     "model":"Oral Care",
     "price":32,
@@ -4693,7 +4693,7 @@
   {
     "id":273,
     "title":"Product 273 Electronics",
-    "type":"Electronics",
+    "department":"Electronics",
     "brand":"Amazon",
     "model":"Fire TV Stick with Alexa Voice Remote",
     "price":351,
@@ -4707,7 +4707,7 @@
   {
     "id":274,
     "title":"Product 274 Toys",
-    "type":"Toys",
+    "department":"Toys",
     "brand":"Star Wars",
     "model":"Arts & Crafts",
     "price":66,
@@ -4724,7 +4724,7 @@
   {
     "id":275,
     "title":"Product 275 Clothing",
-    "type":"Clothing",
+    "department":"Clothing",
     "brand":"Lacoste",
     "model":"Underwear",
     "price":255,
@@ -4741,7 +4741,7 @@
   {
     "id":276,
     "title":"Product 276 Movies",
-    "type":"Movies",
+    "department":"Movies",
     "brand":"Of Gods and Men (Des hommes et des dieux)",
     "model":"Chlo Liletd",
     "price":24,
@@ -4757,7 +4757,7 @@
   {
     "id":277,
     "title":"Product 277 Toys",
-    "type":"Toys",
+    "department":"Toys",
     "brand":"Barbie",
     "model":"Video Games",
     "price":36,
@@ -4776,7 +4776,7 @@
   {
     "id":278,
     "title":"Product 278 Beauty",
-    "type":"Beauty",
+    "department":"Beauty",
     "brand":"Crest",
     "model":"Hair Care",
     "price":37,
@@ -4793,7 +4793,7 @@
   {
     "id":279,
     "title":"Product 279 Grocery",
-    "type":"Grocery",
+    "department":"Grocery",
     "brand":"Condiments & Salad Dressings",
     "model":"Flower - Potmums",
     "price":93,
@@ -4810,7 +4810,7 @@
   {
     "id":280,
     "title":"Product 280 Automotive",
-    "type":"Automotive",
+    "department":"Automotive",
     "brand":"Body & Trim",
     "model":"interior accessories",
     "price":214,
@@ -4824,7 +4824,7 @@
   {
     "id":281,
     "title":"Product 281 Clothing",
-    "type":"Clothing",
+    "department":"Clothing",
     "brand":"Kenneth Cole REACTION",
     "model":"Shirts",
     "price":252,
@@ -4840,7 +4840,7 @@
   {
     "id":282,
     "title":"Product 282 Books",
-    "type":"Books",
+    "department":"Books",
     "brand":"West Cork",
     "model":"Caroline Mitchell",
     "price":10,
@@ -4855,7 +4855,7 @@
   {
     "id":283,
     "title":"Product 283 Books",
-    "type":"Books",
+    "department":"Books",
     "brand":"Silent Victim",
     "model":"Lisa Wingate",
     "price":8,
@@ -4869,7 +4869,7 @@
   {
     "id":284,
     "title":"Product 284 Automotive",
-    "type":"Automotive",
+    "department":"Automotive",
     "brand":"Lighting",
     "model":"parts",
     "price":644,
@@ -4887,7 +4887,7 @@
   {
     "id":285,
     "title":"Product 285 Clothing",
-    "type":"Clothing",
+    "department":"Clothing",
     "brand":"Carhartt",
     "model":"Socks",
     "price":284,
@@ -4903,7 +4903,7 @@
   {
     "id":286,
     "title":"Product 286 Beauty",
-    "type":"Beauty",
+    "department":"Beauty",
     "brand":"Remington",
     "model":"Skin Care",
     "price":71,
@@ -4919,7 +4919,7 @@
   {
     "id":287,
     "title":"Product 287 Clothing",
-    "type":"Clothing",
+    "department":"Clothing",
     "brand":"adidas",
     "model":"Swim",
     "price":265,
@@ -4934,7 +4934,7 @@
   {
     "id":288,
     "title":"Product 288 Movies",
-    "type":"Movies",
+    "department":"Movies",
     "brand":"Sweet Home Alabama",
     "model":"Gabby Arnold",
     "price":12,
@@ -4953,7 +4953,7 @@
   {
     "id":289,
     "title":"Product 289 Books",
-    "type":"Books",
+    "department":"Books",
     "brand":"First 100 Words",
     "model":"Roger Priddy",
     "price":4,
@@ -4968,7 +4968,7 @@
   {
     "id":290,
     "title":"Product 290 Electronics",
-    "type":"Electronics",
+    "department":"Electronics",
     "brand":"Roku",
     "model":"S305 series",
     "price":512,
@@ -4987,7 +4987,7 @@
   {
     "id":291,
     "title":"Product 291 Movies",
-    "type":"Movies",
+    "department":"Movies",
     "brand":"Logan's Run",
     "model":"Abigail Ouldred",
     "price":9,
@@ -5006,7 +5006,7 @@
   {
     "id":292,
     "title":"Product 292 Outdoors",
-    "type":"Outdoors",
+    "department":"Outdoors",
     "brand":"Camping & Hiking",
     "model":"Bike",
     "price":1260,
@@ -5022,7 +5022,7 @@
   {
     "id":293,
     "title":"Product 293 Electronics",
-    "type":"Electronics",
+    "department":"Electronics",
     "brand":"Samsumg",
     "model":"Roku Express | 5X more powerful HD Streaming",
     "price":938,
@@ -5040,7 +5040,7 @@
   {
     "id":294,
     "title":"Product 294 Electronics",
-    "type":"Electronics",
+    "department":"Electronics",
     "brand":"LG",
     "model":"S305 series",
     "price":1741,
@@ -5056,7 +5056,7 @@
   {
     "id":295,
     "title":"Product 295 Home/Garden",
-    "type":"Home/Garden",
+    "department":"Home/Garden",
     "brand":"Bed & Bath",
     "model":"Matress",
     "price":423,
@@ -5074,7 +5074,7 @@
   {
     "id":296,
     "title":"Product 296 Clothing",
-    "type":"Clothing",
+    "department":"Clothing",
     "brand":"Dockers",
     "model":"Shoes",
     "price":193,
@@ -5089,7 +5089,7 @@
   {
     "id":297,
     "title":"Product 297 Movies",
-    "type":"Movies",
+    "department":"Movies",
     "brand":"Syndromes and a Century (Sang sattawat)",
     "model":"Danny Allison",
     "price":26,
@@ -5108,7 +5108,7 @@
   {
     "id":298,
     "title":"Product 298 Home/Garden",
-    "type":"Home/Garden",
+    "department":"Home/Garden",
     "brand":"Home Decor",
     "model":"Blanket",
     "price":667,
@@ -5123,7 +5123,7 @@
   {
     "id":299,
     "title":"Product 299 Electronics",
-    "type":"Electronics",
+    "department":"Electronics",
     "brand":"Sony",
     "model":"C7 OLED series",
     "price":287,
