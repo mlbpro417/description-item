@@ -7,15 +7,17 @@ class IndexDesc extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      data: sampleData,
+      data: [],
     };
   }
 
-  // componentDidMount() {
-  //   fetch((dataReceived) => {
-  //     this.setState({ data: dataReceived });
-  //   });
-  // }
+  componentDidMount() {
+    fetch(5, (dataReceived) => {
+      const dataReceivedArr = [];
+      dataReceivedArr.push(dataReceived);
+      this.setState({ data: dataReceivedArr });
+    });
+  }
 
   render() {
     return (
