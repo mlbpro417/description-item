@@ -1,7 +1,7 @@
 import React from 'react';
 import MainDesc from './MainDesc';
 import sampleData from '../sampleData';
-import fetch from '../api/fetch'
+import fetch from '../api/fetch';
 
 class IndexDesc extends React.Component {
   constructor(props) {
@@ -11,8 +11,11 @@ class IndexDesc extends React.Component {
     };
   }
 
-componentDidMount() {
-}
+  componentDidMount() {
+    fetch((dataReceived) => {
+      this.setState({ data: dataReceived });
+    });
+  }
 
   render() {
     return (
