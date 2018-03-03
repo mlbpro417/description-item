@@ -8,4 +8,4 @@ node_modules
 react-client/dist/bundle.js
 
 ### Jest Coverage ###
-coverage/
+coverage
