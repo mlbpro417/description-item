@@ -45,7 +45,11 @@ exports[`MainDesc Component should renders correctly 1`] = `
     <h3
       id="stock"
     >
-      In Stock.
+      <span
+        id="in"
+      >
+        In Stock.
+      </span>
     </h3>
   </div>
   <div

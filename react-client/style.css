@@ -3,7 +3,7 @@ body {
 }
 
 #main_desc {
-  width: 25%;
+  width: 35%;
 }
 
 #brand {
@@ -40,7 +40,14 @@ body {
 #stock {
   font-size: 16px;
   font-weight: normal;
+}
+
+#in {
   color: #008a00;
+}
+
+#out {
+  color: #b12704;
 }
 
 #list_desc {

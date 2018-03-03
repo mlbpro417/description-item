@@ -4,10 +4,6 @@ const db = require('./database');
 
 mongoose.connect('mongodb://localhost/amazon');
 
-const connect = mongoose.connection;
-connect.on('error', console.error.bind(console, '*** Connection on MongoDB error ***'));
-connect.once('open', () => console.log('*** Connection on MongoDB successful ***'));
-
 const seedDb = (arr) => {
   arr.map((x) => {
     const singleProduct = {
@@ -21,8 +17,11 @@ const seedDb = (arr) => {
       description: x.description,
     };
     db.insert(singleProduct, (err) => {
-      if (err) throw err;
+      if (err) {
+        console.log('Data insert error');
+      }
       console.log('Data insert into DB');
+      mongoose.disconnect();
     });
     return x;
   });

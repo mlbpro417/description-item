@@ -1,14 +1,24 @@
 import React from 'react';
 import MainDesc from './MainDesc';
 import sampleData from '../sampleData';
+import fetch from '../api/fetch';
 
 class IndexDesc extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      data: sampleData,
+      data: [],
     };
   }
+
+  componentDidMount() {
+    fetch(5, (dataReceived) => {
+      const dataReceivedArr = [];
+      dataReceivedArr.push(dataReceived);
+      this.setState({ data: dataReceivedArr });
+    });
+  }
+
   render() {
     return (
       <div id="main_app">

@@ -6,5 +6,5 @@ describe('Server Testing: Test the root path', () => {
     request(app).get('/').expect(200));
 
   test('It should 404 everything else', () =>
-    request(app).get('/test').expect(404));
+    request(app).get('/test/2/test').expect(404));
 });
