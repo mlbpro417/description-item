@@ -7,9 +7,10 @@ router.route('/:id/description').get((req, res) => {
   const { id } = req.params;
   db.findOneProduct(id, (err, product) => {
     if (err) {
-      res.sendStatus(404);
+      res.status(404).send(err);
+    } else {
+      res.json(product);
     }
-    res.json(product);
   });
 });
 

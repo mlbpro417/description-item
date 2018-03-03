@@ -11,7 +11,7 @@ class IndexDesc extends React.Component {
   }
 
   componentDidMount() {
-    fetch(5, (dataReceived) => {
+    fetch(2, (dataReceived) => {
       const dataReceivedArr = [];
       dataReceivedArr.push(dataReceived);
       this.setState({ data: dataReceivedArr });

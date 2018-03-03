@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1520106133204" clover="3.2.0">
-  <project timestamp="1520106133205" name="All files">
-    <metrics statements="130" coveredstatements="88" conditionals="26" coveredconditionals="12" methods="21" coveredmethods="14" elements="177" coveredelements="114" complexity="0" loc="130" ncloc="130" packages="7" files="9" classes="9">
+<coverage generated="1520116609037" clover="3.2.0">
+  <project timestamp="1520116609038" name="All files">
+    <metrics statements="133" coveredstatements="88" conditionals="28" coveredconditionals="12" methods="22" coveredmethods="14" elements="183" coveredelements="114" complexity="0" loc="133" ncloc="133" packages="7" files="9" classes="9">
       <package name="data">
         <metrics statements="84" coveredstatements="54" conditionals="20" coveredconditionals="10" methods="6" coveredmethods="6"/>
         <file name="seedDataGenerator.js" path="/Users/nicolaspeyrichou/Desktop/capstone/description-item/data/seedDataGenerator.js">
@@ -31,17 +31,17 @@
           <line num="31" count="1" type="stmt"/>
           <line num="34" count="1" type="stmt"/>
           <line num="38" count="1" type="stmt"/>
-          <line num="39" count="2191" type="stmt"/>
-          <line num="40" count="2191" type="stmt"/>
+          <line num="39" count="2163" type="stmt"/>
+          <line num="40" count="2163" type="stmt"/>
           <line num="44" count="1" type="stmt"/>
           <line num="45" count="1" type="stmt"/>
           <line num="46" count="1" type="stmt"/>
           <line num="47" count="1" type="stmt"/>
-          <line num="51" count="1893" type="stmt"/>
+          <line num="51" count="1865" type="stmt"/>
           <line num="54" count="1" type="stmt"/>
           <line num="55" count="301" type="stmt"/>
           <line num="56" count="301" type="stmt"/>
-          <line num="57" count="1591" type="stmt"/>
+          <line num="57" count="1563" type="stmt"/>
           <line num="59" count="301" type="stmt"/>
           <line num="63" count="1" type="stmt"/>
           <line num="64" count="300" type="stmt"/>
@@ -93,9 +93,9 @@
         </file>
       </package>
       <package name="db">
-        <metrics statements="9" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <metrics statements="12" coveredstatements="7" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="0"/>
         <file name="database.js" path="/Users/nicolaspeyrichou/Desktop/capstone/description-item/db/database.js">
-          <metrics statements="9" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+          <metrics statements="12" coveredstatements="7" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="0"/>
           <line num="1" count="2" type="stmt"/>
           <line num="3" count="2" type="stmt"/>
           <line num="22" count="2" type="stmt"/>
@@ -103,8 +103,11 @@
           <line num="25" count="0" type="stmt"/>
           <line num="28" count="2" type="stmt"/>
           <line num="29" count="0" type="stmt"/>
-          <line num="32" count="2" type="stmt"/>
-          <line num="33" count="2" type="stmt"/>
+          <line num="30" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="31" count="0" type="stmt"/>
+          <line num="33" count="0" type="stmt"/>
+          <line num="38" count="2" type="stmt"/>
+          <line num="39" count="2" type="stmt"/>
         </file>
       </package>
       <package name="react-client.api">
@@ -139,8 +142,8 @@
           <metrics statements="4" coveredstatements="4" conditionals="4" coveredconditionals="2" methods="2" coveredmethods="2"/>
           <line num="5" count="2" type="stmt"/>
           <line num="6" count="5" type="stmt"/>
-          <line num="25" count="5" type="stmt"/>
-          <line num="30" count="2" type="stmt"/>
+          <line num="27" count="5" type="stmt"/>
+          <line num="32" count="2" type="stmt"/>
         </file>
       </package>
       <package name="server">
@@ -170,7 +173,7 @@
           <line num="9" count="0" type="cond" truecount="0" falsecount="2"/>
           <line num="10" count="0" type="stmt"/>
           <line num="12" count="0" type="stmt"/>
-          <line num="16" count="1" type="stmt"/>
+          <line num="17" count="1" type="stmt"/>
         </file>
       </package>
       <package name="spec">

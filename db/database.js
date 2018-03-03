@@ -26,7 +26,13 @@ const insert = (product, callback) => {
 };
 
 const findOneProduct = (idTarget, callback) => {
-  Products.findOne({ id: idTarget }, callback);
+  Products.findOne({ id: idTarget }, (err, item) => {
+    if (err) {
+      callback(err, null);
+    } else {
+      callback(null, item);
+    }
+  });
 };
 
 module.exports.insert = insert;
