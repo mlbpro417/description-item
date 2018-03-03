@@ -10,7 +10,3 @@ const ListDesc = ({ item }) => (
 );
 
 export default ListDesc;
-
-ListDesc.propTypes = {
-  item: PropTypes.string.isRequired,
-};
