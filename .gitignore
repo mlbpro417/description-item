@@ -6,3 +6,6 @@ node_modules
 
 ### Bundle ###
 react-client/dist/bundle.js
+
+### Jest Coverage ###
+coverage/
