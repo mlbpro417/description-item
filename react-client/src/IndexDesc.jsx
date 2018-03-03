@@ -11,11 +11,11 @@ class IndexDesc extends React.Component {
     };
   }
 
-  componentDidMount() {
-    fetch((dataReceived) => {
-      this.setState({ data: dataReceived });
-    });
-  }
+  // componentDidMount() {
+  //   fetch((dataReceived) => {
+  //     this.setState({ data: dataReceived });
+  //   });
+  // }
 
   render() {
     return (

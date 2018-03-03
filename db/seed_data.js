@@ -21,6 +21,7 @@ const seedDb = (arr) => {
         console.log('Data insert error');
       }
       console.log('Data insert into DB');
+      mongoose.disconnect();
     });
     return x;
   });

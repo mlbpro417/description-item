@@ -1,3 +1,5 @@
 const app = require('./app');
+const mongoose = require('mongoose');
 
-app.listen(3000, () => console.log('Server listening on port 3000!'));
+mongoose.connect('mongodb://localhost/amazon');
+app.listen(3000);
