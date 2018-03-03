@@ -1,6 +1,7 @@
 import React from 'react';
 import MainDesc from './MainDesc';
 import sampleData from '../sampleData';
+import fetch from '../api/fetch'
 
 class IndexDesc extends React.Component {
   constructor(props) {
@@ -9,6 +10,10 @@ class IndexDesc extends React.Component {
       data: sampleData,
     };
   }
+
+componentDidMount() {
+}
+
   render() {
     return (
       <div id="main_app">
